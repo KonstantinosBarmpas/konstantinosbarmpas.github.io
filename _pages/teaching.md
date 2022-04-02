@@ -28,9 +28,9 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 ## Student Mentor, Udacity
 
 Self-Driving Car Nanodegree, 2019 
-:   Tutorial Leader - Weekly Webinars [Videos]())
+:   Tutorial Leader - Weekly Webinars [Videos]()
 
-## Undergraduate Teaching Assistant (UTA), Imperial College London
+## Undergraduate Teaching Assistant (UTA)
 
 Mathematics Year 1B (ELEC40011), Imperial College London, 2019
 :   Study Group Leader - Coursework Marker\
