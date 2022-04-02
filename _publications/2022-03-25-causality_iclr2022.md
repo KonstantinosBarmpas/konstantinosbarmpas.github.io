@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-25-causality_iclr2022
 excerpt: '<strong> Konstantinos Barmpas </strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [Paper](https://openreview.net/forum?id=HRfDSrOLclq) [Repo](https://github.com/konstantinosbarmpas)'
 status: 'Published'
-venue: '<strong>ICLR 2022<strong> - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)' 
+venue: 'ICLR 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
 date: 2022-03-25
 ---
