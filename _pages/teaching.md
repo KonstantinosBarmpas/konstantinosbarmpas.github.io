@@ -33,8 +33,8 @@ COMP97111/97112 Deep Learning, 2022
 ## Undergraduate Teaching Assistant (UTA), Imperial College London
 
 Mathematics Year 1B (ELEC40011), Imperial College London, 2019
-:   Study Group Leader - Coursework Marker\ 
-Lecturers: Dr Daniel Nucinkis 
+:   Study Group Leader - Coursework Marker\
+Lecturers: Dr Daniel Nucinkis
 
 Mathematics Year 2 (ELEC50011), Imperial College London, 2019
 :   Study Group Leader - Coursework Marker\
