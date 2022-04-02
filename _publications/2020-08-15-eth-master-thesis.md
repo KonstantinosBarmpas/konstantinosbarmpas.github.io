@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-08-15-eth-master-thesis
 excerpt: '<strong>Konstantinos Barmpas</strong>, Yannic Kilcher, Kevin Roth, David Haber, Thomas Hofmann - [Paper](https://www.research-collection.ethz.ch/handle/20.500.11850/531617)'
 status: 'Published'
-venue: 'ETH Zürich Research Collection' 
+venue: '<strong>ETH Zürich<strong> Research Collection' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannic Kilcher, Kevin Roth, David Haber, Thomas Hofmann'
-date: 2022-03-25
+date: 2020-08-15
 ---
 
 Master Thesis: <strong>Konstantinos Barmpas</strong> \
