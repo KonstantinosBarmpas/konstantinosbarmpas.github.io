@@ -1,20 +1,12 @@
 ---
-permalink: /portfolio/
+layout: archive
 title: "Portfolio"
-excerpt: ""
+permalink: /portfolio/
 author_profile: true
 ---
 
-## Awards
+{% include base_path %}
 
-## Professional Association
-
-## Leadership
-
-## Hackathons, Seminars & Competitions
-
-## Selected Projects
-
-## Languages
-
-## Volunteering
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
