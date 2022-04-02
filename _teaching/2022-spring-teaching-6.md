@@ -1,6 +1,7 @@
 ---
 title: "Deep Learning"
 collection: teaching
+role: "Graduate Teaching Assistant"
 type: "Postgradaute course"
 permalink: /teaching/2022-spring-teaching-6
 venue: "Imperial College London, Department of Computing"
