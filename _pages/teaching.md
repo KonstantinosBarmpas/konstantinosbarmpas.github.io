@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-### Graduate Teaching Assistant (GTA)
+## Graduate Teaching Assistant (GTA)
 
 Deep Learning (COMP97111/97112), Imperial College London, 2022 
 :   Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) -  
@@ -25,12 +25,12 @@ Introduction to Machine Learning (COMP97101/97151), Imperial College London, 202
 :   Coursework Marker - Tutorial Helper\
 Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully 
 
-### Student Mentor, Udacity
+## Student Mentor, Udacity
 
 COMP97111/97112 Deep Learning, 2022 
 :   Designed the Graph Neural Networks Tutorials / Coursework Marker / Tutorial Helper
 
-### Undergraduate Teaching Assistant (UTA), Imperial College London
+# Undergraduate Teaching Assistant (UTA), Imperial College London
 
 Mathematics Year 1B (ELEC40011), Imperial College London, 2019
 :   Study Group Leader - Coursework Marker\ 
