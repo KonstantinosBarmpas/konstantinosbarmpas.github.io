@@ -6,17 +6,17 @@ main:
   - title: "CV"
     url: https://www.linkedin.com/in/konstantinos-barmpas/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Talks"
+    url: /talks/    
+
+  #- title: "Blog Posts"
+    #url: /year-archive/
+    
+  #- title: "Guide"
+   # url: /markdown/
