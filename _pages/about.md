@@ -22,4 +22,4 @@ Finally, I am currently a [Microsoft Student Ambassador](https://studentambassad
 
 To get in touch, you can e-mail me at: konstantinos.barmpas16 [at] imperial.ac.uk
 
-This website is still under construction and will be frequently updated.
+[This website is still under construction and will be frequently updated]
