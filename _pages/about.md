@@ -18,6 +18,6 @@ My past working experience include in short: [Facesoft](http://facesoft.io) (Ind
 
 Before Imperial, during my gap year, I attended the bachelor's programme at [Department of Electrical and Computer Engineering, National Technical University of Athens](https://www.ece.ntua.gr/gr). As a high school student, I was a national champion and member of the Greek National Karate team .
 
-To get in touch, you can e-mail me: konstantinos.barmpas16 [at] imperial.ac.uk
+To get in touch, you can e-mail me at: konstantinos.barmpas16 [at] imperial.ac.uk
 
 This website is still under construction and will be frequently updated.
