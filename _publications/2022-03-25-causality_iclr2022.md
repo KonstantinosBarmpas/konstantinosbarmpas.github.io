@@ -1,7 +1,7 @@
 ---
 title: "A Causal Viewpoint on Motor-Imagery Brainwave Decoding"
 collection: publications
-permalink: /publication/causality_iclr2022
+permalink: /publication/2022-03-25-causality_iclr2022
 excerpt: ''
 status: 'Published'
 venue: ICLR 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)
