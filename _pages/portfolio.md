@@ -64,4 +64,12 @@ Braillio
 
 ## Languages
 
+Greek (Native), English (Fluent), German (Intermediate)
+
 ## Volunteering
+
+Imperial Plus Awarded Volunteer for two consecutive years (2017 and 2018)
+: Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition)
+
+Fundraiser at Job Fair Athens (2016)
+: Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event
