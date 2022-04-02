@@ -24,16 +24,16 @@ Awards of Excellence
 
 ## Hackathons, Seminars & Competitions
                                                        
-| 2022   | Foundational Theory of Graph Neural Networks by Zak Jost                          |
-| 2022   | Microsoft Azure Fundamentals Certiﬁcate                          |
-| 2022   | Breaking into Technical Product Management by Marily Nika                          |
-|2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by Dr. Anees Kazi at LOGML2021 |
-|2021 | Digital Product Management 101 Seminar by Dr. Marily Nika |
-|2021 | Catapult Energy Systems Presumed Open Data: Data Science Challenge - Top 10 Place |
+| 2022   | Foundational Theory of Graph Neural Networks by [Zak Jost](https://www.graphneuralnets.com)|
+| 2022   | Microsoft Azure Fundamentals [Certiﬁcate](https://www.credly.com/badges/e24d3b41-adea-465c-bd45-8587d725fd74/public_url)|
+| 2022   | Breaking into Technical Product Management by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
+|2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by [Dr. Anees Kazi](https://scholar.google.de/citations?user=G8Js7CsAAAAJ&hl=en) at LOGML2021 |
+|2021 | Digital Product Management 101 Seminar by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
+|2021 | Catapult Energy Systems [Presumed Open Data: Data Science Challenge](https://www.westernpower.co.uk/innovation/projects/presumed-open-data-pod) - Top 10 Place |
 |2020 | Oxford Machine Learning School 2020 |
-|2020 | BuildForCovid19 Global Online Hackathon - Participant with Hara App |
+|2020 | BuildForCovid19 Global Online Hackathon - Participant with [Hara App](https://play.google.com/store/apps/details?id=com.barmpas.hara) |
 |2020 | McKinsey Explore 2020 - Selected to participate in the Consulting workshops |
-|2020 | Facebook AI Hackathon 2020 - Participant with RoadAI |
+|2020 | Facebook AI Hackathon 2020 - Participant with [RoadAI](https://github.com/KonstantinosBarmpas/Road-AI)|
 |2019 | ETH ACE Datathon 2019 - Participant in the AI Challenge |
 |2019 | Edge AI Programme Scholarship (Intel & Udacity) |
 |2019 | Secure & Private AI Scholarship (Facebook & Udacity) |
