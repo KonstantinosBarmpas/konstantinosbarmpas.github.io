@@ -30,7 +30,7 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 COMP97111/97112 Deep Learning, 2022 
 :   Designed the Graph Neural Networks Tutorials / Coursework Marker / Tutorial Helper
 
-# Undergraduate Teaching Assistant (UTA), Imperial College London
+## Undergraduate Teaching Assistant (UTA), Imperial College London
 
 Mathematics Year 1B (ELEC40011), Imperial College London, 2019
 :   Study Group Leader - Coursework Marker\ 
