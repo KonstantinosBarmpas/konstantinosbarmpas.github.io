@@ -22,13 +22,31 @@ Year Group Project Award
 Awards of Excellence
 :   Ranking 1st in my class for both junior and senior high school, 2011-2015 (High School Student)
 
+## Hackathons, Seminars & Competitions
+                                                       
+| 2022   | Foundational Theory of Graph Neural Networks by Zak Jost                          |
+| 2022   | Microsoft Azure Fundamentals Certiﬁcate                          |
+| 2022   | Breaking into Technical Product Management by Marily Nika                          |
+|2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by Dr. Anees Kazi at LOGML2021 |
+|2021 | Digital Product Management 101 Seminar by Dr. Marily Nika |
+|2021 | Catapult Energy Systems Presumed Open Data: Data Science Challenge - Top 10 Place |
+|2020 | Oxford Machine Learning School 2020 |
+|2020 | BuildForCovid19 Global Online Hackathon - Participant with Hara App |
+|2020 | McKinsey Explore 2020 - Selected to participate in the Consulting workshops |
+|2020 | Facebook AI Hackathon 2020 - Participant with RoadAI |
+|2019 | ETH ACE Datathon 2019 - Participant in the AI Challenge |
+|2019 | Edge AI Programme Scholarship (Intel & Udacity) |
+|2019 | Secure & Private AI Scholarship (Facebook & Udacity) |
+|2019 | PyTorch Scholarship Challenge (Facebook & Udacity) |
+|2018 | Self-Driving Car Nanodegree by Udacity |
+|2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
+|2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
+
 ## Professional Associations
 
 Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
 
 Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
-
-## Hackathons, Seminars & Competitions
 
 ## Selected Projects
 
