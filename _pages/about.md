@@ -14,7 +14,7 @@ Since 2021, I have been working as a Machine Learning Engineer at [Cogitat](http
 
 Prior to joining the Department of Computing as a PhD student, I completed my Master of Engineering (MEng - intergrated Bachelors) at the [Department of Electrical and Electronic Engineering, Imperial College London](https://www.imperial.ac.uk/electrical-engineering/). I undertook my Master's year at [ETH Zürich](https://www.ethz.ch/de.html) as a visiting student where I had the honor to conduct my Master Thesis at the [Data Analytics Lab](http://www.da.inf.ethz.ch) under the supervision of [Prof. Thomas Hofmann](https://inf.ethz.ch/people/person-detail.hofmann.html). 
 
-My past working experience include in short: [Facesoft](http://facesoft.io) (6 month placement - acquired by Huawei), [Daedalean AI](https://daedalean.ai) (Master Thesis project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist - Part-time) and [The Mouse Team](https://themouseteam.github.io) (Founder | Android Developer).
+My past working experience include in short: [Facesoft](http://facesoft.io) (6 month placement - acquired by Huawei), [Daedalean AI](https://daedalean.ai) (Master Thesis project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist - Part-time) and [The Mouse Team](https://themouseteam.github.io) (Founder | Android Developer)
 
 Before Imperial, during my gap year, I attended the bachelor's programme at [Department of Electrical and Computer Engineering, National Technical University of Athens](https://www.ece.ntua.gr/gr). As a high school student, I was a national champion and member of the Greek National Karate team .
 
