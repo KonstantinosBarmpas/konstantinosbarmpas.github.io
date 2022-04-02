@@ -62,7 +62,7 @@ PhD Computing Conference Event Organizing Committee, 2020 - Present
 ## Selected Projects
 
 Advanced Machine Learning Projects
-:   Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”, 2019, Student at Swiss Federal Institute of Technology (ETH Zurich) - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projectshttps://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects)
+:   Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”, 2019, Student at Swiss Federal Institute of Technology (ETH Zurich) - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects)
 
 Image Descriptors
 :   Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space, 2019, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning)
