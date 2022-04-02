@@ -27,8 +27,8 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 
 ## Student Mentor, Udacity
 
-COMP97111/97112 Deep Learning, 2022 
-:   Designed the Graph Neural Networks Tutorials / Coursework Marker / Tutorial Helper
+Self-Driving Car Nanodegree, 2019 
+:   Tutorial Leader - Weekly Webinars [Videos]())
 
 ## Undergraduate Teaching Assistant (UTA), Imperial College London
 
