@@ -22,7 +22,11 @@ Year Group Project Award
 Awards of Excellence
 :   Ranking 1st in my class for both junior and senior high school, 2011-2015 (High School Student)
 
-## Professional Association
+## Professional Associations
+
+Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
+
+Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Leadership
 
