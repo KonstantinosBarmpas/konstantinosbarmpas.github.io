@@ -28,8 +28,6 @@ Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentamba
 
 Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
-## Leadership
-
 ## Hackathons, Seminars & Competitions
 
 ## Selected Projects
