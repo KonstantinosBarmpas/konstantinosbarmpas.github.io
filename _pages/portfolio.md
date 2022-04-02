@@ -57,7 +57,7 @@ PhD Year Student Academic Representative, 2020 - Present
 :   PhD Year Student Academic Representative for the Department of Computing at Imperial College London
 
 PhD Computing Conference Event Organizing Committee, 2020 - Present 
-:   Responsible for organizing the talks at Imperial's PhD Computing Conference Events. Previous speakers include among others: Shakir Mohamed (DeepMind), Dr. Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
+:   Responsible for organizing the talks at Imperial's PhD Computing Conference Events. Previous speakers include among others: Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
 
 ## Selected Projects
 
