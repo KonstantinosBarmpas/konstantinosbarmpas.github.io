@@ -50,6 +50,18 @@ Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/
 
 ## Selected Projects
 
+Advanced Machine Learning Projects
+:   Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”, 2019, Student at Swiss Federal Institute of Technology (ETH Zurich) - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projectshttps://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects)
+
+Image Descriptors
+:   Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space, 2019, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning)
+
+Asthmaway
+:   Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit, 2019, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Asthmaway)
+
+Braillio
+:   Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit, 2018, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Braillio)
+
 ## Languages
 
 ## Volunteering
