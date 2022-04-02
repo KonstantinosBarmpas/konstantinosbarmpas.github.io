@@ -2,7 +2,7 @@
 title: "Deep Learning"
 collection: teaching
 type: "Postgradaute course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-6
 venue: "Imperial College London, Department of Computing"
 date: 2022-01-01
 location: "London, United Kingdom"
