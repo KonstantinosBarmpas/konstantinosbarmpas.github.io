@@ -5,15 +5,15 @@ main:
   
   - title: "CV"
     url: https://www.linkedin.com/in/konstantinos-barmpas/
+    
+  - title: "About Me"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+    #url: /talks/    
 
   #- title: "Blog Posts"
     #url: /year-archive/
