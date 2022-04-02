@@ -13,7 +13,7 @@ Master Thesis: <strong>Konstantinos Barmpas</strong> \
 Supervisor: Professor Thomas Hofmann (ETH Zürich) \
 Advisors: Yannic Kilcher (ETH Zürich), Kevin Roth (ETH Zürich), David Haber (Daedalean AI)
 
-[Presentation Video]()
+[Presentation Video]() [Repo](https://github.com/KonstantinosBarmpas/Shallow-Waters)
 
 Over the last decades, complex deep neural networks have revolutionized Artiﬁcial Intelligence (AI) research. These models can now achieve impressive performances on various complex tasks like recognition, detection and image semantic segmentation, achieving accuracy close to, or even better, than human perception. However, these neural networks require to be both deep and complex and this complexity constitutes a danger for the safety veriﬁcation (certiﬁcation) and interpretability of a neural network model.
 
