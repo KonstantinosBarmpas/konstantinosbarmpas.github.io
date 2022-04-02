@@ -2,9 +2,9 @@
 title: "A Causal Viewpoint on Motor-Imagery Brainwave Decoding"
 collection: publications
 permalink: /publication/2022-03-25-causality_iclr2022
-excerpt: ''
+excerpt: '<strong> Konstantinos Barmpas </strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [Paper](https://openreview.net/forum?id=HRfDSrOLclq)[Repo](https://github.com/konstantinosbarmpas)'
 status: 'Published'
-venue: 'ICLR 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC) [Paper](https://openreview.net/forum?id=HRfDSrOLclq) [Repo](https://github.com/konstantinosbarmpas)' 
+venue: 'ICLR 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)' 
 authors: '<strong> Konstantinos Barmpas </strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
 date: 2022-03-25
 ---
