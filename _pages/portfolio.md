@@ -42,11 +42,6 @@ Awards of Excellence
 |2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 |2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
 
-## Professional Associations
-
-Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
-
-Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Selected Projects
 
@@ -61,6 +56,12 @@ Asthmaway
 
 Braillio
 :   Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit, 2018, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Braillio)
+
+## Professional Associations
+
+Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
+
+Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Languages
 
