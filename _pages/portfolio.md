@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "About Me"
+title: "More about Me"
 excerpt: ""
 author_profile: true
 ---
