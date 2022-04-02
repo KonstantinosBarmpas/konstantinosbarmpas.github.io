@@ -17,7 +17,7 @@ Introduction to Machine Learning (COMP97101/97151), Imperial College London, 202
 Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully 
 
 Deep Learning (COMP97111/97112), Imperial College London, 2021 
-:   Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) and [Quiz](https://quizizz.com/admin/quiz/6033e5f2636d8c001b08eb6a/deep-learning-gnns)\ 
+:   Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) and [Quiz](https://quizizz.com/admin/quiz/6033e5f2636d8c001b08eb6a/deep-learning-gnns) - 
 Coursework Marker - Tutorial Helper\
 Lecturers: Bernhard Kainz, Yingzhen Li, Michael Bronstein 
 
