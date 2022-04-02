@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/causality_iclr2022
 excerpt: ''
 status: 'Published'
-venue: ICRL 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)
+venue: ICLR 2022 - Workshop on the Elements of Reasoning: Objects, Structure, and Causality (OSC)
 authors: '<strong> Konstantinos Barmpas </strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
 code: 'https://github.com/konstantinosbarmpas'
 paperurl: 'https://openreview.net/forum?id=HRfDSrOLclq'
