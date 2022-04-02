@@ -16,7 +16,7 @@ Prior to joining the Department of Computing as a PhD student, I completed my Ma
 
 My past working experience includes in short: [Facesoft](http://facesoft.io) (Industrial placement - acquired by Huawei), [Daedalean AI](https://daedalean.ai) (Master Thesis project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist) and [The Mouse Team](https://themouseteam.github.io) (Founder - Android Developer).
 
-Before Imperial, during my gap year, I attended the bachelor's programme at the [Department of Electrical and Computer Engineering, National Technical University of Athens](https://www.ece.ntua.gr/gr). As a high school student, I was a national champion and a member of the Greek National Karate team.
+Before Imperial, during my gap year, I attended the bachelor's programme at the [Department of Electrical and Computer Engineering, National Technical University of Athens](https://www.ece.ntua.gr/gr) and the Engineering Preparation programme at [Oxford Royale Academy](https://www.oxford-royale.com) (University of Oxford - St. Catherine's College). As a high school student, I was a national champion and a member of the Greek National Karate team.
 
 Finally, I am currently a [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866) and an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
 
