@@ -10,7 +10,7 @@ author_profile: true
 Deep Learning (COMP97111/97112), Imperial College London, 2022 
 :   Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) -  
 Coursework Marker - Tutorial Helper\
-Lecturers: Yingzhen Li, Bernhard Kainz, Michael Bronstein
+Lecturers: Dr Yingzhen Li, Dr Bernhard Kainz, Dr Michael Bronstein
 
 Introduction to Machine Learning (COMP97101/97151), Imperial College London, 2021 
 :   Coursework Marker - Tutorial Helper\
@@ -19,7 +19,7 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 Deep Learning (COMP97111/97112), Imperial College London, 2021 
 :   Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) and [Quiz](https://quizizz.com/admin/quiz/6033e5f2636d8c001b08eb6a/deep-learning-gnns) - 
 Coursework Marker - Tutorial Helper\
-Lecturers: Bernhard Kainz, Yingzhen Li, Michael Bronstein 
+Lecturers: Dr Bernhard Kainz, Dr Yingzhen Li, Dr Michael Bronstein 
 
 Introduction to Machine Learning (COMP97101/97151), Imperial College London, 2020
 :   Coursework Marker - Tutorial Helper\
