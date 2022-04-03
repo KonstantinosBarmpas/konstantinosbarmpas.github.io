@@ -25,6 +25,16 @@ Introduction to Machine Learning (COMP97101/97151), Imperial College London, 202
 :   Coursework Marker - Tutorial Helper\
 Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully 
 
+## Undergraduate Teaching Assistant (UTA)
+
+Mathematics Year 1B (ELEC40011), Imperial College London, 2019
+:   Study Group Leader - Coursework Marker\
+Lecturers: Dr Daniel Nucinkis
+
+Mathematics Year 2 (ELEC50011), Imperial College London, 2019
+:   Study Group Leader - Coursework Marker\
+Lecturers: Dr Daniel Nucinkis
+
 ## Student Mentor, Udacity
 
 Self-Driving Car Nanodegree, 2019 
@@ -42,13 +52,3 @@ Self-Driving Car Nanodegree, 2019
 |  Sensors   | [Video](https://youtu.be/od-CK2j8yYY) | 
 |  C++ / Python   | [Video](https://youtu.be/9h9BPeM25x4) |
 |  Kalman Filters   | [Video](https://youtu.be/nP7VNlWvDg0) | 
-
-## Undergraduate Teaching Assistant (UTA)
-
-Mathematics Year 1B (ELEC40011), Imperial College London, 2019
-:   Study Group Leader - Coursework Marker\
-Lecturers: Dr Daniel Nucinkis
-
-Mathematics Year 2 (ELEC50011), Imperial College London, 2019
-:   Study Group Leader - Coursework Marker\
-Lecturers: Dr Daniel Nucinkis
