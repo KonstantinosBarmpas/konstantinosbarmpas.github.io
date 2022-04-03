@@ -30,18 +30,18 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 Self-Driving Car Nanodegree, 2019 
 :   Tutorial Leader - Weekly Webinars 
 
-| Webinar  | Video   |  
+| Webinar  | YouTube Links |  
 | -------- | ------ |
-| Finding Lane Lines Project | [Videos](https://youtu.be/F6PrgOS_cAA) | 
-| Camera Calibration, Gradients and Colour Spaces | [Videos](https://youtu.be/si5Qo2BWEk8) |
-| Advanced Computer Vision    | [Videos](https://youtu.be/5RPqrCyJxDE) | 
-| Machine Learning    | [Videos](https://youtu.be/4wa3sTeVK7A) |
-| Deep Learning    | [Videos](https://youtu.be/OiNCEGQ8_XM) | 
-| Deep Neural Networks    | [Videos](https://youtu.be/Lo2o1Fk9BZw) | 
-| Transfer Learning    | [Videos](https://youtu.be/TWrkdTGzUf8) |
-|  Sensors   | [Videos](https://youtu.be/od-CK2j8yYY) | 
-|  C++ / Python   | [Videos](https://youtu.be/9h9BPeM25x4) |
-|  Kalman Filters   | [Videos](https://youtu.be/nP7VNlWvDg0) | 
+| Finding Lane Lines Project | [Video](https://youtu.be/F6PrgOS_cAA) | 
+| Camera Calibration, Gradients and Colour Spaces | [Video](https://youtu.be/si5Qo2BWEk8) |
+| Advanced Computer Vision    | [Video](https://youtu.be/5RPqrCyJxDE) | 
+| Machine Learning    | [Video](https://youtu.be/4wa3sTeVK7A) |
+| Deep Learning    | [Video](https://youtu.be/OiNCEGQ8_XM) | 
+| Deep Neural Networks    | [Video](https://youtu.be/Lo2o1Fk9BZw) | 
+| Transfer Learning    | [Video](https://youtu.be/TWrkdTGzUf8) |
+|  Sensors   | [Video](https://youtu.be/od-CK2j8yYY) | 
+|  C++ / Python   | [Video](https://youtu.be/9h9BPeM25x4) |
+|  Kalman Filters   | [Video](https://youtu.be/nP7VNlWvDg0) | 
 
 ## Undergraduate Teaching Assistant (UTA)
 
