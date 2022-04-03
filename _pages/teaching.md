@@ -28,7 +28,7 @@ Lecturers: Dr Marek Rei, Dr Josiah Wang, Dr Antoine Cully
 ## Student Mentor, Udacity
 
 Self-Driving Car Nanodegree, 2019 
-:   Tutorial Leader - Weekly Webinars based on the Nanodegree's content. You can check out the recorded YouTube Live videos.
+:   Tutorial Leader - Weekly Webinars based on the Nanodegree's content. Check out the recorded YouTube Live videos below:
 
 | Webinar  | YouTube Links |  
 | -------- | ------ |
