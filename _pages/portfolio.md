@@ -41,12 +41,12 @@ Year Group Project Award
 
 ## Presentations And Talks
 
-| 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) — [Video]() |
-| 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video]() |
-| 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event — [Video]() |
-| 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event — [Video]() |
-| 2021 | Presented the Group Project ”Investigating Diﬀerentiable Graph Module” at LOGML — [Video]() |
-| 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab — [Video]() |
+| 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
+| 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
+| 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event |
+| 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event |
+| 2021 | Presented the Group Project ”Investigating Diﬀerentiable Graph Module” at LOGML |
+| 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab |
 
 ## Leadership
 
