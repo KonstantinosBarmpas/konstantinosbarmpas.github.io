@@ -20,6 +20,6 @@ Before Imperial, during my gap year, I attended the bachelor's programme at the 
 
 Finally, I am currently a [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866) and an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
 
-To get in touch, you can e-mail me at: konstantinos.barmpas16 [at] imperial.ac.uk
+To get in touch, you can e-mail me at: konstantinos[dot]barmpas16[at]imperial[dot]ac[dot]uk
 
-[This website is still under construction and will be frequently updated]
+[This website is under construction and will be frequently updated]
