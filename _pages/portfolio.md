@@ -19,9 +19,6 @@ Swiss Mobility Programme Scholarship
 Year Group Project Award
 :   Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype, 2018 (M.Eng. Student at Imperial College London)
 
-Awards of Excellence
-:   Ranking 1st in my class for both junior and senior high school, 2011-2015 (High School Student)
-
 ## Hackathons, Seminars & Competitions
                                                        
 | 2022   | Foundational Theory of Graph Neural Networks by [Zak Jost](https://www.graphneuralnets.com)|
