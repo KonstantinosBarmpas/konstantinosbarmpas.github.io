@@ -84,11 +84,11 @@ author:
   avatar           : "barmpas_photo.jpg"
   bio              : "PhD Candidate in Machine Learning / Brain-Computer Interfaces @ Imperial College London | ML Engineer @ Cogitat"
   location         : "London, United Kingdom"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Konstantinos-Barmpas-2"
   uri              :
   bitbucket        :
   codepen          :
