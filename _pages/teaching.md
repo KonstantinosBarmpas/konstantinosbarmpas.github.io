@@ -40,15 +40,15 @@ Lecturers: Dr. Daniel Nucinkis
 Self-Driving Car Nanodegree, 2019 
 :   Tutorial Leader - Weekly Webinars based on the Nanodegree's content. Check out the recorded YouTube Live videos below:
 
-| Webinar  | YouTube Links |  
-| -------- | ------ |
-| Finding Lane Lines Project | [Video](https://youtu.be/F6PrgOS_cAA) | 
-| Camera Calibration, Gradients and Colour Spaces | [Video](https://youtu.be/si5Qo2BWEk8) |
-| Advanced Computer Vision    | [Video](https://youtu.be/5RPqrCyJxDE) | 
-| Machine Learning    | [Video](https://youtu.be/4wa3sTeVK7A) |
-| Deep Learning    | [Video](https://youtu.be/OiNCEGQ8_XM) | 
-| Deep Neural Networks    | [Video](https://youtu.be/Lo2o1Fk9BZw) | 
-| Transfer Learning    | [Video](https://youtu.be/TWrkdTGzUf8) |
-|  Sensors   | [Video](https://youtu.be/od-CK2j8yYY) | 
-|  C++ / Python   | [Video](https://youtu.be/9h9BPeM25x4) |
-|  Kalman Filters   | [Video](https://youtu.be/nP7VNlWvDg0) | 
+| Webinar  |  
+| -------- | 
+| Finding Lane Lines Project | 
+| Camera Calibration, Gradients and Colour Spaces | 
+| Advanced Computer Vision    | 
+| Machine Learning    | 
+| Deep Learning    |
+| Deep Neural Networks    | 
+| Transfer Learning    | 
+|  Sensors   | 
+|  C++ / Python   | 
+|  Kalman Filters   |
