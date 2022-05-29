@@ -41,6 +41,7 @@ Year Group Project Award
 
 ## Presentations And Talks
 
+| 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Website](https://bcisociety.org/event/next-gen-trainee-spotlight-2/) |
 | 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
 | 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
 | 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
