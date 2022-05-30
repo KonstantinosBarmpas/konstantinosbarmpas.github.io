@@ -19,6 +19,24 @@ Swiss Mobility Programme Scholarship
 Year Group Project Award
 :   Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype, 2018 (M.Eng. Student at Imperial College London)
 
+## Presentations And Talks
+
+| 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Website](https://bcisociety.org/event/next-gen-trainee-spotlight-2/) |
+| 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
+| 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
+| 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
+| 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
+| 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
+
+## Leadership
+
+PhD Year Student Academic Representative, 2020 - Present
+:   PhD Year Student Academic Representative for the Department of Computing at Imperial College London
+
+PhD Computing Conference Event Organizing Committee, 2020 - Present 
+:   Responsible for organizing the talks at Imperial's PhD Computing Conference Events. Previous speakers include among others: Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
+
+
 ## Hackathons, Seminars & Competitions
                                                        
 | 2022   | Foundational Theory of Graph Neural Networks by [Zak Jost](https://www.graphneuralnets.com)|
@@ -38,23 +56,6 @@ Year Group Project Award
 |2018 | Self-Driving Car Nanodegree by Udacity |
 |2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 |2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
-
-## Presentations And Talks
-
-| 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Website](https://bcisociety.org/event/next-gen-trainee-spotlight-2/) |
-| 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
-| 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
-| 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
-| 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
-| 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
-
-## Leadership
-
-PhD Year Student Academic Representative, 2020 - Present
-:   PhD Year Student Academic Representative for the Department of Computing at Imperial College London
-
-PhD Computing Conference Event Organizing Committee, 2020 - Present 
-:   Responsible for organizing the talks at Imperial's PhD Computing Conference Events. Previous speakers include among others: Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
 
 ## Selected Projects
 
