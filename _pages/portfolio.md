@@ -21,7 +21,7 @@ Year Group Project Award
 
 ## Presentations And Talks
 
-| 2022 | Imperial College London (Department of Computing) Demonstration Sessions during The Great Exhibition Road Festival — [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/) [Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw)|
+| 2022 | The Great Exhibition Road Festival - Department of Computing Drop-In Demonstrations — [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/) / [Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw)|
 | 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/) |
 | 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
 | 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
