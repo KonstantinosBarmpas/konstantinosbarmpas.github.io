@@ -40,6 +40,7 @@ PhD Computing Conference Event Organizing Committee, 2020 - Present
 
 ## Hackathons, Seminars & Competitions
                                                        
+| 2022   | Machine Learning Summer School [MLSS](https://mlss.mlinpl.org)|
 | 2022   | Foundational Theory of Graph Neural Networks by [Zak Jost](https://www.graphneuralnets.com)|
 | 2022   | Microsoft Azure Fundamentals [Certiﬁcate](https://www.credly.com/badges/e24d3b41-adea-465c-bd45-8587d725fd74/public_url)|
 | 2022   | Breaking into Technical Product Management by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
