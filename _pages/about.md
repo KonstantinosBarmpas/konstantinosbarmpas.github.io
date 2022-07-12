@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a second year PhD student in Machine Learning / Brain-Computer Interfaces (BCIs) at the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), under the supervision of [Prof. Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/). My main research interests lie in the intersection of Deep Learning and Brain-Computer Interfaces (e.g., Differentialable Signal Processing, Geometric Deep Learning, Causality).  
 
-Since 2021, I have been working as a Machine Learning Engineer at [Cogitat](https://cogitat.io)[Check out our released demo [demo](https://www.youtube.com/watch?v=W5t4QbBLJeo&t=15s)], where I have been developing novel deep learning methods for EEG-based Brain Computer Interfaces (BCIs).
+Since 2021, I have been working as a Machine Learning Engineer at [Cogitat](https://cogitat.io) - [check out our released [demo](https://www.youtube.com/watch?v=W5t4QbBLJeo&t=15s)] - where I have been developing novel deep learning methods for EEG-based Brain Computer Interfaces (BCIs).
 
 I am also currently a [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866) and an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing).
 
