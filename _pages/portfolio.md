@@ -39,25 +39,33 @@ PhD Computing Conference Event Organizing Committee, 2020 - Present
 
 
 ## Hackathons, Seminars & Competitions
-                                                       
+
+| 2022 | Oxford Machine Learning School 2022 |
+| 2022 | Participant in the Project: PDE-Inspired Sheaf Neural Networks by [Cristian Bodnar](https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en) at LOGML2022 |
 | 2022   | Machine Learning Summer School [MLSS](https://mlss.mlinpl.org)|
 | 2022   | Foundational Theory of Graph Neural Networks by [Zak Jost](https://www.graphneuralnets.com)|
 | 2022   | Microsoft Azure Fundamentals [Certiﬁcate](https://www.credly.com/badges/e24d3b41-adea-465c-bd45-8587d725fd74/public_url)|
 | 2022   | Breaking into Technical Product Management by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
-|2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by [Dr. Anees Kazi](https://scholar.google.de/citations?user=G8Js7CsAAAAJ&hl=en) at LOGML2021 |
-|2021 | Digital Product Management 101 Seminar by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
-|2021 | Catapult Energy Systems [Presumed Open Data: Data Science Challenge](https://www.westernpower.co.uk/innovation/projects/presumed-open-data-pod) - Top 10 Place |
-|2020 | Oxford Machine Learning School 2020 |
-|2020 | BuildForCovid19 Global Online Hackathon - Participant with [Hara App](https://play.google.com/store/apps/details?id=com.barmpas.hara) |
-|2020 | McKinsey Explore 2020 - Selected to participate in the Consulting workshops |
-|2020 | Facebook AI Hackathon 2020 - Participant with [RoadAI](https://github.com/KonstantinosBarmpas/Road-AI)|
-|2019 | ETH ACE Datathon 2019 - Participant in the AI Challenge |
-|2019 | Edge AI Programme Scholarship (Intel & Udacity) |
-|2019 | Secure & Private AI Scholarship (Facebook & Udacity) |
-|2019 | PyTorch Scholarship Challenge (Facebook & Udacity) |
-|2018 | Self-Driving Car Nanodegree by Udacity |
-|2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
-|2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
+| 2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by [Dr. Anees Kazi](https://scholar.google.de/citations?user=G8Js7CsAAAAJ&hl=en) at LOGML2021 |
+| 2021 | Digital Product Management 101 Seminar by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
+| 2021 | Catapult Energy Systems [Presumed Open Data: Data Science Challenge](https://www.westernpower.co.uk/innovation/projects/presumed-open-data-pod) - Top 10 Place |
+| 2020 | Oxford Machine Learning School 2020 |
+| 2020 | BuildForCovid19 Global Online Hackathon - Participant with [Hara App](https://play.google.com/store/apps/details?id=com.barmpas.hara) |
+| 2020 | McKinsey Explore 2020 - Selected to participate in the Consulting workshops |
+| 2020 | Facebook AI Hackathon 2020 - Participant with [RoadAI](https://github.com/KonstantinosBarmpas/Road-AI)|
+| 2019 | ETH ACE Datathon 2019 - Participant in the AI Challenge |
+| 2019 | Edge AI Programme Scholarship (Intel & Udacity) |
+| 2019 | Secure & Private AI Scholarship (Facebook & Udacity) |
+| 2019 | PyTorch Scholarship Challenge (Facebook & Udacity) |
+| 2018 | Self-Driving Car Nanodegree by Udacity |
+| 2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
+| 2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
+
+## Professional Associations
+
+Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
+
+Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Selected Projects
 
@@ -73,11 +81,6 @@ Asthmaway
 Braillio
 :   Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit, 2018, Student at Imperial College London (ICL) - [Link](https://github.com/KonstantinosBarmpas/Braillio)
 
-## Professional Associations
-
-Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
-
-Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Languages
 
