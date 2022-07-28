@@ -21,7 +21,7 @@ Year Group Project Award
 
 ## Presentations And Talks
 
-| July 2022 | Pre-sessional ResearchFest! (Imperial College London) - [Tweet]()|
+| July 2022 | Pre-sessional ResearchFest! (Imperial College London) — [Tweet]()|
 | June 2022 | The Great Exhibition Road Festival - Department of Computing Drop-In Demonstrations — [Message from Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
 | May 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
 | February 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
