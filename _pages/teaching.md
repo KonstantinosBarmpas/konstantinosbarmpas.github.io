@@ -9,7 +9,7 @@ author_profile: true
 
 ### Graduate Teaching Assistant (GTA) 
 
-| Date  | Course | Institution | Details |
+| Date  | Course | Institution | Teaching Duties |
 | -------- | -------- | -------- | -------- | 
 | January - March 2022 | Deep Learning (COMP97111/97112) | Imperial College London - Department of Computing | Designed the Graph Neural Networks [Tutorial](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) - Coursework Marker - Tutorial Helper <br /> Lecturers: Dr. Yingzhen Li, Dr. Bernhard Kainz, Prof. Michael Bronstein |
 | October - December 2021 | Introduction to Machine Learning (COMP97101/97151) | Imperial College London - Department of Computing | Coursework Marker - Tutorial Helper <br /> Lecturers: Dr. Marek Rei, Dr. Josiah Wang, Dr. Antoine Cully |
