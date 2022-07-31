@@ -73,5 +73,5 @@ author_profile: true
 
 ## Volunteering
 
-| 2017 - 2018 | Imperial Plus Awarded Volunteer for two consecutive years <br /> Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition) |
-| 2015 - 2016 | Fundraiser at Job Fair Athens <br /> Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event - [Link]([https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition](https://www.jobfairathens.gr/)) |
+| 2017 - 2018 | Imperial Plus Awarded Volunteer for two consecutive years <br /> *Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer* - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition) |
+| 2015 - 2016 | Fundraiser at Job Fair Athens <br /> *Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event* - [Link]([https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition](https://www.jobfairathens.gr/)) |
