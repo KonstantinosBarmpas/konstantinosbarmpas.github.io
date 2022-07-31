@@ -7,7 +7,7 @@ author_profile: true
 
 For a complete updated list of my publications page, visit my [Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao). 
 
-[Update] Three more papers (first author) under peer-review
+[+ Update] Three more papers (first author) under peer-review
 
 {% include base_path %}
 
