@@ -5,6 +5,8 @@ excerpt: ""
 author_profile: true
 ---
 
+Teaching is a core component of working in academia, so by working as a TA during my PhD as well as an undergraduate student, I had the chance to collaborate with brilliant academics, gain teaching experience and develop my own teaching style. Some of my TA roles include:
+
 ---
 
 ### Graduate Teaching Assistant (GTA) 
