@@ -28,18 +28,10 @@ author_profile: true
 
 ## Leadership / Associations
 
-PhD Computing Conference Event Organizing Committee, April 2021 - Present 
-:   Responsible for organizing the talks at Imperial Computing Conference (ICC) [Website](https://bit.ly/icc22). Previous speakers include among others: Petar Veličković (DeepMind), Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
-
-Microsoft Student Learn Ambassador, April 2021 - Present 
-: Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
-
-PhD Year Student Academic Representative, October 2020 - Present
-:   PhD Year Student Academic Representative for the Department of Computing at Imperial College London
-
-Google Certiﬁed Associate Android Developer, August 2018 - August 2020
-: Google Developer Certification - Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
-
+| April 2021 - Present  | Organizer of Imperial Computing Conference ([ICC](https://bit.ly/icc22)) <br /> Responsible for talks of Petar Veličković (DeepMind), Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University) |
+| April 2021 - Present | Beta-level Microsoft UK Student Learn Ambassador [Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866) |
+| October 2020 - Present | PhD Year Student Academic Representative for the Department of Computing at Imperial College London |
+| August 2018 - August 2020 | Google Certiﬁed Associate Android Developer — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
 
 ## Hackathons, Seminars & Competitions
 
