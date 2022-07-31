@@ -24,20 +24,8 @@ author_profile: true
 | 2019 | Mathematics Year 1B ([ELEC40011](http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=ELEC40011&s=I1)) | Imperial College London - Department of Electrical and Electronic Engineering | Study Group Leader - Coursework Marker <br /> Lecturers: Dr. Daniel Nucinkis |
 | 2018 -  2019 | Mathematics Year 2 ([ELEC50011](http://intranet.ee.ic.ac.uk/electricalengineering/eecourses_t4/course_content.asp?c=ELEC50011B&s=I2)) | Imperial College London - Department of Electrical and Electronic Engineering | Study Group Leader - Coursework Marker <br /> Lecturers: Dr. Daniel Nucinkis |
 
-## Student Mentor, Udacity
+### Student Mentor
 
-Self-Driving Car Nanodegree, 2019 
-:   Tutorial Leader - Weekly Webinars based on the Nanodegree's content. Check out the recorded YouTube Live videos below:
-
-| Webinar  |  
-| -------- | 
-| Finding Lane Lines Project | 
-| Camera Calibration, Gradients and Colour Spaces | 
-| Advanced Computer Vision    | 
-| Machine Learning    | 
-| Deep Learning    |
-| Deep Neural Networks    | 
-| Transfer Learning    | 
-|  Sensors   | 
-|  C++ / Python   | 
-|  Kalman Filters   |
+| Date  | Course | Institution | Teaching Duties |
+| -------- | -------- | -------- | -------- | 
+| March - August 2019 | Self-Driving Car Nanodegree | Udacity | Tutorial Leader - Weekly Webinars based on the Nanodegree's content: [Finding Lane Lines Project], [Camera Calibration, Gradients and Colour Spaces], [Advanced Computer Vision], [Machine Learning], [Deep Learning], [Deep Neural Networks], [Transfer Learning], [Sensors], [C++ / Python], [Kalman Filters] |
