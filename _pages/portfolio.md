@@ -30,13 +30,19 @@ Year Group Project Award
 | August 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
 | August 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
 
-## Leadership
+## Leadership / Associations
 
-PhD Year Student Academic Representative, 2020 - Present
+PhD Computing Conference Event Organizing Committee, April 2021 - Present 
+:   Responsible for organizing the talks at Imperial Computing Conference (ICC) [Website](https://bit.ly/icc22). Previous speakers include among others: Petar Veličković (DeepMind), Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
+
+Microsoft Student Learn Ambassador, April 2021 - Present 
+: Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
+
+PhD Year Student Academic Representative, October 2020 - Present
 :   PhD Year Student Academic Representative for the Department of Computing at Imperial College London
 
-PhD Computing Conference Event Organizing Committee, 2020 - Present 
-:   Responsible for organizing the talks at Imperial Computing Conference (ICC) [Website](https://bit.ly/icc22). Previous speakers include among others: Petar Veličković (DeepMind), Shakir Mohamed (DeepMind), Oana Cocarascu (King's College London) and Marily Nika (AR product lead for Google and Teaching Fellow at Harvard University)
+Google Certiﬁed Associate Android Developer, August 2018 - August 2020
+: Google Developer Certification - Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 
 ## Hackathons, Seminars & Competitions
@@ -62,11 +68,6 @@ PhD Computing Conference Event Organizing Committee, 2020 - Present
 | 2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 | 2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
 
-## Professional Associations
-
-Beta-level Microsoft UK Student Learn Ambassador ([Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866))
-
-Google Certiﬁed Associate Android Developer ([Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp))
 
 ## Selected Projects
 
@@ -88,7 +89,9 @@ Braillio
 
 ## Languages
 
-Greek (Native), English (Fluent), German (Intermediate)
+- Greek (Native)
+- English (Fluent)
+- German (Intermediate)
 
 ## Volunteering
 
@@ -96,4 +99,4 @@ Imperial Plus Awarded Volunteer for two consecutive years (2017 and 2018)
 : Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition)
 
 Fundraiser at Job Fair Athens (2016)
-: Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event
+: Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event - [Link]([https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition](https://www.jobfairathens.gr/))
