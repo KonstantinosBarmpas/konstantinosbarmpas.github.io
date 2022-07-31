@@ -83,4 +83,4 @@ Google Certiﬁed Associate Android Developer, August 2018 - August 2020
 
 - **Imperial Plus Awarded Volunteer for two consecutive years** (2017 and 2018) <br /> *Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer* - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition)
 
-- **Fundraiser at Job Fair Athens (2016)** <br /> * Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event - [Link]([https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition](https://www.jobfairathens.gr/))
+- **Fundraiser at Job Fair Athens (2016)** <br /> *Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event - [Link]([https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition](https://www.jobfairathens.gr/))
