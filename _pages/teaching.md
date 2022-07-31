@@ -28,4 +28,4 @@ author_profile: true
 
 | Date  | Course | Institution | Teaching Duties |
 | -------- | -------- | -------- | -------- | 
-| March - August 2019 | Self-Driving Car [Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013) | Udacity | Tutorial Leader - Weekly Webinars based on the Nanodegree's content: [Finding Lane Lines Project], [Camera Calibration, Gradients and Colour Spaces], [Advanced Computer Vision], [Machine Learning], [Deep Learning], [Deep Neural Networks], [Transfer Learning], [Sensors], [C++ / Python], [Kalman Filters] |
+| March - August 2019 | Self-Driving Car [Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013) | Udacity | Tutorial Leader - Weekly Webinars based on the Nanodegree's content: <br /> [Finding Lane Lines Project], [Camera Calibration, Gradients and Colour Spaces], [Advanced Computer Vision], [Machine Learning], [Deep Learning], [Deep Neural Networks], [Transfer Learning], [Sensors], [C++ / Python], [Kalman Filters] |
