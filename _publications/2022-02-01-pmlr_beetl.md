@@ -2,7 +2,7 @@
 title: "2021 BEETL Competition: Advancing Transfer Learning for Subject Independence & Heterogenous EEG Data Sets"
 collection: publications
 permalink: /publication/2022-02-01-pmlr_beetl
-excerpt: 'Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk - [Paper](https://proceedings.mlr.press/v176/wei22a/wei22a.pdf)'
+excerpt: 'Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk - [[Paper](https://proceedings.mlr.press/v176/wei22a/wei22a.pdf)]'
 status: 'Published'
 venue: 'Proceedings of Machine Learning Research (<strong>PMLR</strong>)' 
 authors: 'Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk'
