@@ -14,7 +14,7 @@ Since 2021, I have been working as a Machine Learning Engineer at [Cogitat](http
 
 During my PhD, I am also a [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866) and an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing) as well as in the organizing committee of Imperial Computing Conference ([ICC](https://bit.ly/icc22)).
 
-My past working experience includes in short: [Facesoft](https://www.linkedin.com/company/facesoftltd/about/) (Industrial Placement), [Daedalean AI](https://daedalean.ai) (Master Thesis Project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist) and [The Mouse Team](https://themouseteam.github.io) (Founder - Android Developer).
+My past working experience includes in short: [Facesoft](https://www.linkedin.com/company/facesoftltd/about/) (Machine Leaarning / Software Engineering Intern), [Daedalean AI](https://daedalean.ai) (Machine Learning Thesis Project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist) and [The Mouse Team](https://themouseteam.github.io) (Founder - Android Developer).
 
 Prior to joining the Department of Computing as a PhD student, I completed my Master of Engineering (MEng - intergrated Bachelors) at the [Department of Electrical and Electronic Engineering, Imperial College London](https://www.imperial.ac.uk/electrical-engineering/). I undertook my Master's year at [ETH Zürich](https://www.ethz.ch/de.html) as a visiting student where I had the honor to conduct my Master Thesis at the [Data Analytics Lab](http://www.da.inf.ethz.ch) under the supervision of [Prof. Thomas Hofmann](https://inf.ethz.ch/people/person-detail.hofmann.html). 
 
