@@ -9,7 +9,8 @@ author_profile: true
 
 ## Graduate Teaching Assistant (GTA) 
 
-| January - March 2022 | Deep Learning (COMP97111/97112) (Imperial College London - Department of Computing) | Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) - Coursework Marker - Tutorial Helper \ Lecturers: Dr. Yingzhen Li, Dr. Bernhard Kainz, Prof. Michael Bronstein |
+| January - March 2022 | Deep Learning (COMP97111/97112) (Imperial College London - Department of Computing) | Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) - Coursework Marker - Tutorial Helper 
+Lecturers: Dr. Yingzhen Li, Dr. Bernhard Kainz, Prof. Michael Bronstein |
 | January - March 2023 | Deep Learning (COMP97111/97112) (Imperial College London - Department of Computing) | Designed the Graph Neural Networks [Tutorials](https://www.doc.ic.ac.uk/~bkainz/teaching/DL/T09_GCNs.pdf) -  Coursework Marker - Tutorial Helper Lecturers: Dr. Yingzhen Li, Dr. Bernhard Kainz, Prof. Michael Bronstein |
 
 ## Graduate Teaching Assistant (GTA)
