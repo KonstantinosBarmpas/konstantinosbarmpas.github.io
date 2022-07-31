@@ -67,21 +67,11 @@ Google Certiﬁed Associate Android Developer, August 2018 - August 2020
 
 ## Selected Projects
 
-Advanced Machine Learning Projects
-:   Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals” <br /> Student at Swiss Federal Institute of Technology (ETH Zurich), 2019 - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects)
-
-Image Descriptors
-:   Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space <br /> Student at Imperial College London (ICL), 2019 - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning)
-
-Asthmaway
-:   Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit <br /> Student at Imperial College London (ICL), 2019 - [Link](https://github.com/KonstantinosBarmpas/Asthmaway)
-
-Braillio
-:   Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit <br /> Student at Imperial College London (ICL), 2018 - [Link](https://github.com/KonstantinosBarmpas/Braillio)
-
-The Mouse Originals 
-: Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM) <br /> Android Developer (The Mouse Team), 2016-2021 - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US)
-
+| 2019 | **Advanced Machine Learning Projects** <br /> *Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”* - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects) | Student at Swiss Federal Institute of Technology (ETH Zurich) |
+| 2019 | **Image Descriptors** <br /> *Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space* - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning) | Student at Imperial College London (ICL) |
+| 2019 | **Asthmaway** <br /> *Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Asthmaway) | Student at Imperial College London (ICL) |
+| 2018 | **Braillio** <br /> *Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Braillio) | Student at Imperial College London (ICL) |
+| 2016 - 2021 | **The Mouse Originals** <br /> *Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM)* - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US) | Android Developer (The Mouse Team) |
 
 ## Languages
 
