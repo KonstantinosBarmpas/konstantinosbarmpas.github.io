@@ -17,14 +17,14 @@ author_profile: true
 
 ## Presentations And Talks
 
-| July 2022 | Pre-sessional ResearchFest! (Imperial College London) — [Tweet](https://twitter.com/NtinosBarmpas/status/1553003819537162241?s=20&t=BQt5jt_ai3EHwAb8eTWNwg)|
-| June 2022 | The Great Exhibition Road Festival - Department of Computing Drop-In Demonstrations — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
-| May 2022 | BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
-| February 2022 | Deep Learning Techniques for Brain-Computer Interfaces at DoC Showcase Day (Imperial College London) |
-| December 2021 | DoC Clock - Featuring PhD student Konstantinos (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
-| November 2021 | From IoT Devices to Time-Series Insights (Part 2) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
-| August 2021 | From IoT Devices to Time-Series Insights (Part 1) at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
-| August 2020 | Presented the Master Thesis ”Certifying Properties of Deep Networks by Taking them into Shallow Waters ” at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
+| July 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at Pre-sessional ResearchFest! (Imperial College London) — [Tweet](https://twitter.com/NtinosBarmpas/status/1553003819537162241?s=20&t=BQt5jt_ai3EHwAb8eTWNwg)|
+| June 2022 | "Department of Computing Drop-In Demonstrations" at The Great Exhibition Road Festival — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
+| May 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
+| February 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at DoC Showcase Day (Imperial College London) |
+| December 2021 | "Featuring PhD student Konstantinos" at Doc Clock (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
+| November 2021 | "From IoT Devices to Time-Series Insights (Part 2)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
+| August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
+| August 2020 | "Certifying Properties of Deep Networks by Taking them into Shallow Waters" at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
 
 ## Leadership / Associations
 
