@@ -17,6 +17,7 @@ author_profile: true
 
 ## Presentations And Talks
 
+| August 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at Oxford Machine Learning Summer School 2022 (Unconference) — [Video](https://www.youtube.com/watch?v=-v5KIe4RWQg)|
 | July 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at Pre-sessional ResearchFest! (Imperial College London) — [Tweet](https://twitter.com/NtinosBarmpas/status/1553003819537162241?s=20&t=BQt5jt_ai3EHwAb8eTWNwg)|
 | June 2022 | "Department of Computing Drop-In Demonstrations" at The Great Exhibition Road Festival — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
 | May 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
