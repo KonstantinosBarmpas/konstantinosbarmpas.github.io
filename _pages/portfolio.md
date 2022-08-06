@@ -70,7 +70,7 @@ author_profile: true
 
 - Greek (Native)
 - English (Fluent)
-- German (Intermediate)
+- German (Basic)
 
 ## Volunteering
 
