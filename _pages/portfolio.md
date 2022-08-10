@@ -22,7 +22,6 @@ author_profile: true
 | June 2022 | "Department of Computing Drop-In Demonstrations" at The Great Exhibition Road Festival — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
 | May 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
 | February 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at DoC Showcase Day (Imperial College London) - [Video](https://youtu.be/PMu3Ds33Xtk)|
-| February 2022 | Panelist at DoC Showcase Day Panel Discussion (Imperial College London)|
 | December 2021 | "Featuring PhD student Konstantinos" at Doc Clock (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
 | November 2021 | "From IoT Devices to Time-Series Insights (Part 2)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
 | August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
