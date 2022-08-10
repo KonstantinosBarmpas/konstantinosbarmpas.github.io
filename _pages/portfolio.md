@@ -21,7 +21,8 @@ author_profile: true
 | July 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at Pre-sessional ResearchFest! (Imperial College London) — [Tweet](https://twitter.com/NtinosBarmpas/status/1553003819537162241?s=20&t=BQt5jt_ai3EHwAb8eTWNwg)|
 | June 2022 | "Department of Computing Drop-In Demonstrations" at The Great Exhibition Road Festival — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
 | May 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
-| February 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at DoC Showcase Day (Imperial College London) |
+| February 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at DoC Showcase Day (Imperial College London) - [Video](https://youtu.be/PMu3Ds33Xtk)|
+| February 2022 | Panelist at DoC Showcase Day Panel Discussion (Imperial College London)|
 | December 2021 | "Featuring PhD student Konstantinos" at Doc Clock (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
 | November 2021 | "From IoT Devices to Time-Series Insights (Part 2)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
 | August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
@@ -44,7 +45,7 @@ author_profile: true
 | 2022   | Breaking into Technical Product Management by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
 | 2021 | Participant in the Project: Investigating Diﬀerentiable Graph Module by [Dr. Anees Kazi](https://scholar.google.de/citations?user=G8Js7CsAAAAJ&hl=en) at LOGML2021 |
 | 2021 | Digital Product Management 101 Seminar by [Marily Nika](https://en.wikipedia.org/wiki/Marily_Nika)|
-| 2021 | Catapult Energy Systems [Presumed Open Data: Data Science Challenge](https://www.westernpower.co.uk/innovation/projects/presumed-open-data-pod) - Top 10 Place |
+| 2021 | Catapult Energy Systems [Presumed Open Data: Data Science Challenge](https://www.westernpower.co.uk/innovation/projects/presumed-open-data-pod) -  Place: 10th / 47 teams |
 | 2020 | Oxford Machine Learning School 2020 |
 | 2020 | BuildForCovid19 Global Online Hackathon - Participant with [Hara App](https://play.google.com/store/apps/details?id=com.barmpas.hara) |
 | 2020 | McKinsey Explore 2020 - Selected to participate in the Consulting workshops |
