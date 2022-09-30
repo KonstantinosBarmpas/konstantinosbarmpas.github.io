@@ -5,6 +5,11 @@ excerpt: ""
 author_profile: true
 ---
 
+## Patents
+
+"Classification of brain activity signals" - Publication Number	GB2605270 - [Link](https://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2605270)
+Inventors: **Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskarias, Stefanos Zafeiriou
+
 ## Awards
 
 | Date  | Award | Affiliation | 
