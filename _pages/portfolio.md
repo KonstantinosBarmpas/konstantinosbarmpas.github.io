@@ -42,6 +42,7 @@ Inventors: **Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolao
 
 ## Hackathons, Seminars & Competitions
 
+| 2022 | ELLIS Doctoral Symposium 2022 [EDS](https://ellis.eu/events/ellis-doctoral-symposium-2022)|
 | 2022 | Oxford Machine Learning School 2022 |
 | 2022 | Participant in the Project: PDE-Inspired Sheaf Neural Networks by [Cristian Bodnar](https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en) at LOGML2022 |
 | 2022   | Machine Learning Summer School [MLSS](https://mlss.mlinpl.org)|
