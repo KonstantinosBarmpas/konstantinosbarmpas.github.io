@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Update] 3 more papers (first author) under peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
+[Update] 3 more papers (first author) and 1 group work under peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
 
 ---
 
