@@ -17,5 +17,5 @@ The deep connections between Partial Differential Equations (PDEs) and Graph Neu
 
 **NeurIPS2022 NeurReps Poster**
 
-<COMING SOON>
+COMING SOON
 
