@@ -11,7 +11,7 @@ date: 2022-10-20
 
 Authors: Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Marco La Vecchia, <strong>Konstantinos Barmpas</strong> and Cristian Bodnar
 
-A project that was carried out during the London Geometry and Machine Learning (LOGML) Summer School 2022 - [[Link](https://www.logml.ai/home-2022)] 
+A group project carried out during the London Geometry and Machine Learning (LOGML) Summer School 2022 - [[Link](https://www.logml.ai/home-2022)] 
 
 [[Workshop Page](https://www.neurreps.org)] 
 
