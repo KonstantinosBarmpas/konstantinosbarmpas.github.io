@@ -32,10 +32,11 @@ Inventors: **Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolao
 | August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
 | August 2020 | "Certifying Properties of Deep Networks by Taking them into Shallow Waters" at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
 
-## Leadership / Associations
+## Leadership / Associations / Service
 
-| April 2021 - Present  | **Co-Organizer of Imperial Computing Conference** ([ICC](https://bit.ly/icc22)) <br /> Responsible for organizing the talks of [Petar Veličković](https://petar-v.com/) (DeepMind), [Shakir Mohamed](https://shakirm.com/) (DeepMind), [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London) and [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (AR product lead for Google and Teaching Fellow at Harvard University) |
+| September 2022 - Present | **IEEE Reviwer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal|
 | August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
+| April 2021 - Present  | **Co-Organizer of Imperial Computing Conference** ([ICC](https://bit.ly/icc22)) <br /> Responsible for organizing the talks of [Petar Veličković](https://petar-v.com/) (DeepMind), [Shakir Mohamed](https://shakirm.com/) (DeepMind), [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London) and [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (AR product lead for Google and Teaching Fellow at Harvard University) |
 | April 2021 - Present | **Beta-level Microsoft UK Student Learn Ambassador** — [Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866) |
 | October 2020 - Present | **PhD Year Student Academic Representative** for the Department of Computing at Imperial College London |
 | August 2017 - August 2020 | **Google Certiﬁed Associate Android Developer** — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
