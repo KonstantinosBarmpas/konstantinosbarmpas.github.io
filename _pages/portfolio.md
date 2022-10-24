@@ -34,7 +34,7 @@ Inventors: **Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolao
 
 ## Leadership / Associations / Service
 
-| September 2022 - Present | **IEEE Reviwer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal|
+| September 2022 - Present | **IEEE Reviewer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal|
 | August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
 | April 2021 - Present  | **Co-Organizer of Imperial Computing Conference** ([ICC](https://bit.ly/icc22)) <br /> Responsible for organizing the talks of [Petar Veličković](https://petar-v.com/) (DeepMind), [Shakir Mohamed](https://shakirm.com/) (DeepMind), [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London) and [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (AR product lead for Google and Teaching Fellow at Harvard University) |
 | April 2021 - Present | **Beta-level Microsoft UK Student Learn Ambassador** — [Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866) |
