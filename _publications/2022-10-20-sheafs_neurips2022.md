@@ -2,7 +2,7 @@
 title: "Surfing on the Neural Sheaf"
 collection: publications
 permalink: /publication/2022-10-20-sheafs_neurips2022
-excerpt: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar - [[Paper]()] [[Poster]()]'
+excerpt: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar - [[Paper]()] [[Poster](https://www.barmpas.com/publication/2022-10-20-sheafs_neurips2022)]'
 status: 'Published'
 venue: '<strong>NeurIPS 2022</strong> - NeurReps Workshop (Symmetry and Geometry in Neural Representations)' 
 authors: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar'
