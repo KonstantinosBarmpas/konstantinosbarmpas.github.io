@@ -5,11 +5,11 @@ permalink: /publication/2022-10-20-sheafs_neurips2022
 excerpt: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Marco La Vecchia, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar - [[Paper]()] [[Poster]()]'
 status: 'Published'
 venue: '<strong>NeurIPS 2022</strong> - NeurReps Workshop (Symmetry and Geometry in Neural Representations)' 
-authors: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Marco La Vecchia, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar'
+authors: 'Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, <strong>Konstantinos Barmpas</strong>, Cristian Bodnar'
 date: 2022-10-20
 ---
 
-Authors: Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Marco La Vecchia, <strong>Konstantinos Barmpas</strong> and Cristian Bodnar
+Authors: Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, <strong>Konstantinos Barmpas</strong> and Cristian Bodnar
 
 A group project carried out during the London Geometry and Machine Learning (LOGML) Summer School 2022 - [[Link](https://www.logml.ai/home-2022)] 
 
