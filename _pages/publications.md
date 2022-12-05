@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Publications and Patents"
+title: "Patents"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ---
+# Publications
 
 [Update] 3 more papers (first author) - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
 
