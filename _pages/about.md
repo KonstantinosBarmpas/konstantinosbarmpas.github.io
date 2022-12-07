@@ -12,7 +12,7 @@ I'm a penultimate year year PhD student in Machine Learning / Brain-Computer Int
 
 Since 2021, I have been working as a Machine Learning Engineer at [Cogitat](https://cogitat.io) - [check out our released [Demos](https://www.youtube.com/@cogitat1496)] - where I have been developing novel deep learning methods for EEG-based Brain Computer Interfaces (BCIs).
 
-During my PhD, I am also an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), a Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866), Co-Organizer of Imperial Computing Conference ([ICC](https://bit.ly/icc22)) and Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School.
+During my PhD, I am also an Academic Year Student Representative for the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), a [Microsoft Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/106866), Co-Organizer of Imperial Computing Conference ([ICC](https://bit.ly/icc22)) and Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School.
 
 My past working experience includes in short: [Facesoft](https://www.linkedin.com/company/facesoftltd/about/) (Machine Leaarning / Software Engineering Intern), [Daedalean AI](https://daedalean.ai) (Machine Learning Thesis Project), [Smart Power Networks](https://smpnetworks.com) (Data Scientist) and [The Mouse Team](https://themouseteam.github.io) (Founder - Android Developer).
 
