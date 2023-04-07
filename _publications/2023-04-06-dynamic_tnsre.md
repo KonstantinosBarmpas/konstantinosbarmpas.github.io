@@ -1,17 +1,17 @@
 ---
-title: "2021 BEETL Competition: Advancing Transfer Learning for Subject Independence & Heterogenous EEG Data Sets"
+title: "Improving Generalization of CNN-based Motor-Imagery EEG Decoders via Dynamic Convolutions"
 collection: publications
-permalink: /publication/2022-02-01-pmlr_beetl
-excerpt: 'Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk - [[Paper](https://proceedings.mlr.press/v176/wei22a/wei22a.pdf)] [[BEETL Competition](https://beetl.ai/introduction)]'
+permalink: /publication/2023-04-06-dynamic_tnsre
+excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[Paper](https://ieeexplore.ieee.org/document/10093935/)]'
 status: 'Published'
-venue: 'Proceedings of Machine Learning Research (<strong>PMLR</strong>)' 
-authors: 'Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk'
-date: 2022-02-01
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>)' 
+authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou'
+date: 2023-04-06
 ---
 
-Authors:Xiaoxi Wei, A. Aldo Faisal, Moritz Grosse-Wentrup, Alexandre Gramfort, Sylvain Chevallier, Vinay Jayaram, Camille Jeunet, Stylianos Bakas, Siegfried Ludwig, <strong>Konstantinos Barmpas</strong>, Mehdi Bahri, Yannis Panagakis, Nikolaos Laskaris, Dimitrios A. Adamos, Stefanos Zafeiriou, William C. Duong, Stephen M. Gordon, Vernon J. Lawhern, Maciej Śliwowski, Vincent Rouanne, Piotr Tempczyk
+Authors: <strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou 
 
-Transfer learning and meta-learning offer some of the most promising avenues to unlock the scalability of healthcare and consumer technologies driven by biosignal data. This is because current methods cannot generalise well across human subjects’ data and handle learning from different heterogeneously collected data sets, thus limiting the scale of training data. On the other side, developments in transfer learning would benefit significantly from a real-world benchmark with immediate practical application. Therefore, we pick electroencephalography (EEG) as an exemplar for what makes biosignal machine learning hard. We design two transfer learning challenges around diagnostics and Brain-Computer- Interfacing (BCI), that have to be solved in the face of low signal-to-noise ratios, major variability among subjects, differences in the data recording sessions and techniques, and even between the specific BCI tasks recorded in the dataset. Task 1 is centred on the field of medical diagnostics, addressing automatic sleep stage annotation across subjects. Task 2 is centred on Brain-Computer Interfacing (BCI), addressing motor imagery decoding across both subjects and data sets. The ([BEETL](https://beetl.ai/introduction)) competition with its over 30 competing teams and its 3 winning entries brought attention to the potential of deep transfer learning and combinations of set theory and conventional machine learning techniques to overcome the challenges. The results set a new state-of-the-art for the real-world BEETL benchmark. 
+Deep Convolutional Neural Networks (CNNs) have recently demonstrated impressive results in electroencephalogram (EEG) decoding for several Brain-Computer Interface (BCI) paradigms, including Motor-Imagery (MI). However, neurophysiological processes underpinning EEG signals vary across subjects causing covariate shifts in data distributions and hence hindering the generalization of deep models across subjects. In this paper, we aim to address the challenge of inter-subject variability in MI. To this end, we employ causal reasoning to characterize all possible distribution shifts in the MI task and propose a dynamic convolution framework to account for shifts caused by the inter-subject variability. Using publicly available MI datasets, we demonstrate improved generalization performance (up to 5%) across subjects in various MI tasks for four well-established deep architectures.
 
 
 
