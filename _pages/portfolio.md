@@ -66,10 +66,10 @@ Our work at Cogitat was featured in:
 
 | Date  | Media  | 
 | -------- | -------- | 
-| 2023 | **BBC Article** <br /> *[Link]()* | 
-| 2023 | **Telegraph Article** <br /> *[Link]()* | 
-| 2023 | **Sifted Article** <br /> *[Link]()h* | 
-| 2022 | **Business Insider Article** <br /> *A[Link]()* |
+| 2023 | **BBC Article** <br /> *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
+| 2023 | **Telegraph Article** <br /> *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
+| 2023 | **Sifted Article** <br /> *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
+| 2022 | **Business Insider Article** <br /> *[Link](https://www.businessinsider.com/these-are-13-wearable-technology-and-remote-monitoring-startups-2022-9)* |
 
 ## Selected Projects
 
