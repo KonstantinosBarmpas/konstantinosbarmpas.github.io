@@ -60,6 +60,16 @@ author_profile: true
 | 2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 | 2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
 
+## Media
+
+Our work at Cogitat was featured in:
+
+| Date  | Media  | 
+| -------- | -------- | 
+| 2023 | **BBC Article** <br /> *[Link]()* | 
+| 2023 | **Telegraph Article** <br /> *[Link]()* | 
+| 2023 | **Sifted Article** <br /> *[Link]()h* | 
+| 2022 | **Business Insider Article** <br /> *A[Link]()* |
 
 ## Selected Projects
 
