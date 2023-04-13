@@ -15,7 +15,7 @@ Patent Status: **Published** - Publication Number: GB2605270 <br />
 
 # Publications
 
-[Update] 2 more papers (first author) - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
+[Update] 2 more papers (first author) under blind peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
 
 ---
 
