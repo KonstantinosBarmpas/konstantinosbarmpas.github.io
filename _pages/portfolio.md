@@ -50,6 +50,7 @@ Our work at Cogitat was featured in the following articles:
 
 ## Hackathons, Seminars & Competitions
 
+| 2023 | BCI & Neurotechnology Spring School 2023 by [(g.tec)](https://www.gtec.at/spring-school-2023/)|
 | 2022 | ELLIS Doctoral Symposium 2022 [(EDS)](https://ellis.eu/events/ellis-doctoral-symposium-2022)|
 | 2022 | Oxford Machine Learning School 2022 [(OxML)](https://www.oxfordml.school/)|
 | 2022 | Participant in the Project: PDE-Inspired Sheaf Neural Networks by [Cristian Bodnar](https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en) at LOGML2022 |
