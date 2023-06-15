@@ -50,6 +50,7 @@ Our work at Cogitat was featured in the following articles:
 
 ## Hackathons, Seminars & Competitions
 
+| 2023 | Advanced AI Product Management with Technical Deep Dive by [Marily Nika](https://maven.com/certificate/duyJNjdf)|
 | 2023 | BCI & Neurotechnology Spring School 2023 by [(g.tec)](https://www.gtec.at/spring-school-2023/)|
 | 2022 | ELLIS Doctoral Symposium 2022 [(EDS)](https://ellis.eu/events/ellis-doctoral-symposium-2022)|
 | 2022 | Oxford Machine Learning School 2022 [(OxML)](https://www.oxfordml.school/)|
