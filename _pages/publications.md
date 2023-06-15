@@ -11,13 +11,15 @@ Patent Status: **Published** - Publication Number: GB2605270 <br />
 **Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[IPO.GOV.UK](https://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2605270)][[Google Patents](https://patents.google.com/patent/GB2605270A/en?oq=GB2605270A)]
 
 --- 
+--- 
+
 # Experiments
 
 ## [MyBrainCommands Experiment](https://mybraincommands.doc.ic.ac.uk/) 
-Recording brain waves while engaging in simple tasks. The project received approval from the Research Governance and Integrity Team (number 22IC7505) and is sponsored by the Department of Computing, Imperial College London - Imperial College London (April 2022 - Present)
+Recording brain waves while engaging in simple tasks. The project received approval from the Research Governance and Integrity Team (number 22IC7505) and is sponsored by the Department of Computing Imperial College London, April 2022 - Present
 
 --- 
-
+--- 
 # Publications
 
 [Update] 2 more papers (first author) under blind peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
