@@ -11,11 +11,11 @@ Our work at Cogitat was featured in the following articles:
 
 | Date  | Media  | 
 | -------- | -------- | 
-| 2023 | **The Times Article** - *[Link](https://www.thetimes.co.uk/article/fef0a9d2-0bd9-11ee-947c-69265173b330?shareToken=970eafa8e8048ea8cd9b06ed1ba16e8a)* | 
-| 2023 | **BBC Article** - *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
-| 2023 | **Telegraph Article** - *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
-| 2023 | **Sifted Article** - *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
-| 2022 | **Business Insider Article** - *[Link](https://www.businessinsider.com/these-are-13-wearable-technology-and-remote-monitoring-startups-2022-9)* |
+| June 2023 | **The Times Article** - *[Link](https://www.thetimes.co.uk/article/fef0a9d2-0bd9-11ee-947c-69265173b330?shareToken=970eafa8e8048ea8cd9b06ed1ba16e8a)* | 
+| February 2023 | **BBC Article** - *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
+| February 2023 | **Telegraph Article** - *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
+| January 2023 | **Sifted Article** - *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
+| October 2022 | **Business Insider Article** - *[Link](https://www.businessinsider.com/these-are-13-wearable-technology-and-remote-monitoring-startups-2022-9)* |
 
 ## Awards
 
@@ -41,6 +41,8 @@ Our work at Cogitat was featured in the following articles:
 
 ## Leadership / Associations / Service
 
+| July 2023 - Present | **Associate Fellowship** Advanced Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
+| June 2023 - Present | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
 | March 2023 - Present | **Lakera AI Student Momentum Ambassador** - [Momentum](https://www.lakera.ai/momentum) |
 | September 2022 - Present | **IEEE Reviewer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal - [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)|
 | August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
