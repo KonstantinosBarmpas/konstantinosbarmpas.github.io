@@ -26,6 +26,20 @@ Our work at Cogitat was featured in the following articles:
 | 2019 | **Swiss Mobility Programme Scholarship** <br /> *Scholarship for getting accepted as a Master’s exchange student at ETH Zurich* | M.Eng. Student at ETH Zurich |
 | 2018 | **Year Group Project Award** <br /> *Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype* | M.Eng. Student at Imperial College London |
 
+## Leadership / Associations / Service
+
+| July 2023 - Present | **Associate Fellowship** Advanced Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
+| June 2023 - Present | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
+| August 2017 | **Google Certiﬁed Associate Android Developer** — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
+
+## Leadership / Service
+
+| March 2023 - Present | **Lakera AI Student Momentum Ambassador** - [Momentum](https://www.lakera.ai/momentum) |
+| September 2022 - Present | **IEEE Reviewer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal - [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)|
+| August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
+| April 2021 - Present  | **Main Organizer of Imperial Computing Conference** ([ICC](https://bit.ly/icc22)) <br /> Responsible for sponsors and organizing the talks of: [Petar Veličković](https://petar-v.com/) (DeepMind), [Shakir Mohamed](https://shakirm.com/) (DeepMind), [Kimon Fountoulakis](https://uwaterloo.ca/data-science/about/people/kimon-fountoulakis) (University of Waterloo), [David Pfau](http://davidpfau.com) (DeepMind), [Ann Blandford](https://www.ucl.ac.uk/pals/people/ann-blandford) (UCL), [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (Google and Harvard University), [Samyakh Tukra](https://scholar.google.co.uk/citations?user=Mkxk50oAAAAJ&hl=en) (Shell), [Pauline Bolignano](https://www.amazon.science/author/pauline-bolignano) (Amazon), [Thomas Barrett](https://scholar.google.co.uk/citations?user=nJa1KGIAAAAJ&hl=en) (InstaDeep), [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London) and [Natalie Wu](https://www.lakera.ai/about) (Lakera AI), [Max Mathys](https://www.lakera.ai/about) (Lakera AI) |
+| April 2021 - Present | **Beta-level Microsoft UK Student Learn Ambassador** — [Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866) |
+| October 2020 - Present | **PhD Year Student Academic Representative** for the Department of Computing at Imperial College London <br /> Shortlisted for the PG Representative of the Year Award of Imperial College Union 2023 - [Post](https://www.linkedin.com/posts/konstantinos-barmpas_super-happy-to-be-shortlisted-for-the-pg-activity-7077236833759158272-NQTI?utm_source=share&utm_medium=member_desktop) |
 
 ## Presentations And Talks
 
@@ -38,18 +52,6 @@ Our work at Cogitat was featured in the following articles:
 | November 2021 | "From IoT Devices to Time-Series Insights (Part 2)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
 | August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
 | August 2020 | "Certifying Properties of Deep Networks by Taking them into Shallow Waters" at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
-
-## Leadership / Associations / Service
-
-| July 2023 - Present | **Associate Fellowship** Advanced Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
-| June 2023 - Present | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
-| March 2023 - Present | **Lakera AI Student Momentum Ambassador** - [Momentum](https://www.lakera.ai/momentum) |
-| September 2022 - Present | **IEEE Reviewer** <br /> Reviewer for the prestigious "IEEE Transactions on Pattern Analysis and Machine Intelligence" Journal - [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)|
-| August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
-| April 2021 - Present  | **Main Organizer of Imperial Computing Conference** ([ICC](https://bit.ly/icc22)) <br /> Responsible for sponsors and organizing the talks of: [Petar Veličković](https://petar-v.com/) (DeepMind), [Shakir Mohamed](https://shakirm.com/) (DeepMind), [Kimon Fountoulakis](https://uwaterloo.ca/data-science/about/people/kimon-fountoulakis) (University of Waterloo), [David Pfau](http://davidpfau.com) (DeepMind), [Ann Blandford](https://www.ucl.ac.uk/pals/people/ann-blandford) (UCL), [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (Google and Harvard University), [Samyakh Tukra](https://scholar.google.co.uk/citations?user=Mkxk50oAAAAJ&hl=en) (Shell), [Pauline Bolignano](https://www.amazon.science/author/pauline-bolignano) (Amazon), [Thomas Barrett](https://scholar.google.co.uk/citations?user=nJa1KGIAAAAJ&hl=en) (InstaDeep), [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London) and [Natalie Wu](https://www.lakera.ai/about) (Lakera AI), [Max Mathys](https://www.lakera.ai/about) (Lakera AI) |
-| April 2021 - Present | **Beta-level Microsoft UK Student Learn Ambassador** — [Proﬁle](https://studentambassadors.microsoft.com/en-US/profile/106866) |
-| October 2020 - Present | **PhD Year Student Academic Representative** for the Department of Computing at Imperial College London <br /> Shortlisted for the PG Representative of the Year Award of Imperial College Union 2023 - [Post](https://www.linkedin.com/posts/konstantinos-barmpas_super-happy-to-be-shortlisted-for-the-pg-activity-7077236833759158272-NQTI?utm_source=share&utm_medium=member_desktop) |
-| August 2017 - August 2020 | **Google Certiﬁed Associate Android Developer** — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
 
 ## Hackathons, Seminars & Competitions
 
