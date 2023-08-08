@@ -26,7 +26,7 @@ Our work at Cogitat was featured in the following articles:
 | 2019 | **Swiss Mobility Programme Scholarship** <br /> *Scholarship for getting accepted as a Master’s exchange student at ETH Zurich* | M.Eng. Student at ETH Zurich |
 | 2018 | **Year Group Project Award** <br /> *Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype* | M.Eng. Student at Imperial College London |
 
-## Leadership / Associations / Service
+## Associations
 
 | July 2023 - Present | **Associate Fellowship** Advanced Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
 | June 2023 - Present | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
