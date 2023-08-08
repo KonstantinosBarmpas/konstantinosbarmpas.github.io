@@ -93,6 +93,11 @@ Our work at Cogitat was featured in the following articles:
 - English (Fluent)
 - German (Basic)
 
+## Nationalities
+
+- Greek
+- British
+
 ## Volunteering
 
 | 2017 - 2018 | Imperial Plus Awarded Volunteer for two consecutive years <br /> *Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer* - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition) |
