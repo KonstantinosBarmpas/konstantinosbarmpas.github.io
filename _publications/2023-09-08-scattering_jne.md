@@ -2,7 +2,7 @@
 title: "BrainWave-Scattering Net: A Lightweight Network for EEG-based Motor Imagery Recognition"
 collection: publications
 permalink: /publication/2023-09-08-scattering_jne
-excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[Paper](https://doi.org/10.1088/1741-2552/acf78a)]'
+excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[Paper](https://doi.org/10.1088/1741-2552/acf78a)]'
 status: 'Published'
 venue: 'Journal of Neural Engineering (<strong>JNE</strong>)' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou'
