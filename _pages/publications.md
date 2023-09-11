@@ -8,7 +8,7 @@ author_profile: true
 ## [Classification of Brain Activity Signals](https://patentimages.storage.googleapis.com/f5/1e/9e/fdf699480cc79f/GB2605270A.pdf) 
 Patent Status: **Published** - Publication Number: GB2605270 <br />
 
-**Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[IPO.GOV.UK](https://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2605270)][[Google Patents](https://patents.google.com/patent/GB2605270A/en?oq=GB2605270A)][[PCT](https://patentimages.storage.googleapis.com/a7/1a/3d/cb5421bd652cb6/WO2023148471A1.pdf)]
+**Konstantinos Barmpas**, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[IPO.GOV.UK](https://www.ipo.gov.uk/p-ipsum/Case/PublicationNumber/GB2605270)][[Google Patents](https://patents.google.com/patent/GB2605270A/en?oq=GB2605270A)][[PCT](https://patents.google.com/patent/WO2023148471A1/)]
 
 --- 
 --- 
