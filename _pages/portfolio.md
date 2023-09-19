@@ -28,7 +28,7 @@ Our work at Cogitat was featured in the following articles:
 
 ## Associations
 
-| July 2023 | **Associate Fellowship** Advanced Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
+| September 2023 | **Associate Fellowship** Advance Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
 | June 2023 | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
 | August 2017 | **Google Certiﬁed Associate Android Developer** — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
 
