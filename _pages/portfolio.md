@@ -96,7 +96,7 @@ Our work at Cogitat was featured in the following articles:
 - English (Fluent)
 - German (Basic)
 
-## Nationalities
+## Citizenships
 
 - Greek
 - British
