@@ -57,9 +57,9 @@ Our work at Cogitat was featured in the following articles:
 
 ## Hackathons, Seminars & Competitions
 
+| 2023 | TechxBio Oxford Mixer hosted by [Valence Labs](https://www.valencelabs.com/) and [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en) |
 | 2023 | Royal Society Neural Interfaces [Summit](https://royalsociety.org/science-events-and-lectures/2023/09/royal-society-neural-interfaces-summit-2023/) 2023 |
 | 2023 | Neurotechnology and You Seminar at Imperial College London |
-| 2023 | TechxBio Oxford Mixer hosted by [Valence Labs](https://www.valencelabs.com/) and [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en)  |
 | 2023 | Advanced AI Product Management with Technical Deep Dive by [Marily Nika](https://maven.com/certificate/duyJNjdf)|
 | 2023 | BCI & Neurotechnology Spring School 2023 by [(g.tec)](https://www.gtec.at/spring-school-2023/)|
 | 2022 | ELLIS Doctoral Symposium 2022 [(EDS)](https://ellis.eu/events/ellis-doctoral-symposium-2022)|
@@ -98,7 +98,7 @@ Our work at Cogitat was featured in the following articles:
 - English (Fluent)
 - German (Basic)
 
-## Citizenships
+## Nationalities
 
 - Greek
 - British
