@@ -11,7 +11,7 @@ Our work at Cogitat was featured in the following articles:
 
 | Date  | Media  | 
 | -------- | -------- | 
-| June 2023 | **The Times Article** - *[Link](https://www.thetimes.co.uk/article/fef0a9d2-0bd9-11ee-947c-69265173b330?shareToken=970eafa8e8048ea8cd9b06ed1ba16e8a)* | 
+| June 2023 | **The Times Article** - *[Link](https://www.thetimes.co.uk/article/i-played-a-video-game-by-thinking-the-mind-reader-revolution-is-real-ml59c86mx)* | 
 | February 2023 | **BBC Article** - *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
 | February 2023 | **Telegraph Article** - *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
 | January 2023 | **Sifted Article** - *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
