@@ -22,7 +22,7 @@ Recording brain waves while engaging in simple tasks. The project received appro
 --- 
 # Publications
 
-[Update] 1 more papers (first author) under blind peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
+[Update] 2 more papers (first author) under blind peer-review - [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
 
 ---
 
