@@ -38,6 +38,7 @@ Our work at Cogitat was featured in the following articles:
 
 ## Leadership / Service
 
+| January 2024 - Present | **Member of Equity, Diversity and Culture Committee (EDCC) at Imperial College London (Department of Computing)** - [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) |
 | March 2023 - Present | **Lakera AI Student Momentum Ambassador** - [Momentum](https://www.lakera.ai/momentum) |
 | September 2022 - Present | **Reviewer** <br /> Reviewer for the prestigious journals: "IEEE Transactions on Pattern Analysis and Machine Intelligence" and "IEEE Journal of Biomedical and Health Informatics" and <br /> Reviewer for Symmetry and Geometry  in Neural Representations (NeurReps) NeurIPS2023 Workshop. *Nominated by the program chair committee of NeurReps* - [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)|
 | August 2022 - Present | **Co-Organizer of London Geometry and Machine Learning ([LOGML](https://www.logml.ai/))  Summer School** |
