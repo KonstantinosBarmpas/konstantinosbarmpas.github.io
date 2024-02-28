@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+List of patents [[Google Patents](https://patents.google.com/?inventor=Barmpas+Konstantinos)]:
+
 ## [Classification of Brain Activity Signals](https://patentimages.storage.googleapis.com/f5/1e/9e/fdf699480cc79f/GB2605270A.pdf) 
 Patent Status: **Published** - Publication Number: GB2605270 <br />
 
