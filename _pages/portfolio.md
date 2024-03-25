@@ -11,6 +11,7 @@ Our work at Cogitat was featured in the following articles:
 
 | Date  | Media  | 
 | -------- | -------- | 
+| March 2024 | **Sky News** - *[Link](https://www.youtube.com/watch?app=desktop&feature=shared&v=0sjUPR2u2C0)* | 
 | February 2024 | **Sky News** - *[Link](https://news.sky.com/video/elon-musks-neuralink-company-implants-brain-chip-in-human-for-first-time-13060639)* | 
 | February 2024 | **The Times** - *[Link](https://www.thetimes.co.uk/article/brain-technology-has-sparked-a-wave-of-innovation-in-britain-n8q9n6c2r)* | 
 | February 2024 | **EU Startups** - *[Link](https://www.eu-startups.com/2024/02/greek-rising-stars-10-innovative-startups-you-must-keep-an-eye-on-in-2024-and-beyond/?)* | 
