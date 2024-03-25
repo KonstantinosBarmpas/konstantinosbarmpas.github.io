@@ -16,7 +16,7 @@ Our work at Cogitat was featured in the following articles:
 | February 2024 | **The Times** - *[Link](https://www.thetimes.co.uk/article/brain-technology-has-sparked-a-wave-of-innovation-in-britain-n8q9n6c2r)* | 
 | February 2024 | **EU Startups** - *[Link](https://www.eu-startups.com/2024/02/greek-rising-stars-10-innovative-startups-you-must-keep-an-eye-on-in-2024-and-beyond/?)* | 
 | January 2024 | **New Statesman** - *[Link](https://www.newstatesman.com/science-tech/big-tech/2024/01/mind-reading-elon-musk-neuralink)* | 
-| June 2023 | **The Times Article** - *[Link](https://www.thetimes.co.uk/article/i-played-a-video-game-by-thinking-the-mind-reader-revolution-is-real-ml59c86mx)* | 
+| June 2023 | **The Times** - *[Link](https://www.thetimes.co.uk/article/i-played-a-video-game-by-thinking-the-mind-reader-revolution-is-real-ml59c86mx)* | 
 | February 2023 | **BBC** - *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
 | February 2023 | **Telegraph** - *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
 | January 2023 | **Sifted** - *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
