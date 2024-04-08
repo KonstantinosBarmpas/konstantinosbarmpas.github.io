@@ -18,3 +18,4 @@ Personalized electroencephalogram (EEG) decoders hold a distinct preference in h
 **ICLR24 TS4H Poster**
 
 
+![](../images/pub_iclr2024_ts4h/ts4h_poster_2024.png)
