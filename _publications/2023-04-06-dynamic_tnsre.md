@@ -2,7 +2,7 @@
 title: "Improving Generalization of CNN-based Motor-Imagery EEG Decoders via Dynamic Convolutions"
 collection: publications
 permalink: /publication/2023-04-06-dynamic_tnsre
-excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[Paper](https://ieeexplore.ieee.org/document/10093935/)]'
+excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou - [[Paper](https://ieeexplore.ieee.org/document/10093935/)] [[Talk at the BCI Society](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s)]'
 status: 'Published'
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>)' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Stylianos Bakas, Dimitrios Adamos, Nikolaos Laskaris, Stefanos Zafeiriou'
