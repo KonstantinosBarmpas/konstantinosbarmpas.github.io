@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Publications
+
+ List of publications [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
+
+---
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+---
+---
+
 List of patents [[Google Patents](https://patents.google.com/?inventor=Barmpas+Konstantinos)]:
 
 --- 
@@ -24,14 +40,4 @@ Recording brain waves while engaging in simple tasks. The project received appro
 
 --- 
 --- 
-# Publications
 
- List of publications [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
-
----
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
