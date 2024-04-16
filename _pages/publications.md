@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Patents"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
- List of publications [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
+List of publications [[Google Scholar profile](https://scholar.google.com/citations?user=JkRlsiQAAAAJ&hl=el&oi=ao)]
 
 ---
 
@@ -20,6 +18,8 @@ author_profile: true
 
 ---
 ---
+
+# Patents
 
 List of patents [[Google Patents](https://patents.google.com/?inventor=Barmpas+Konstantinos)]:
 
