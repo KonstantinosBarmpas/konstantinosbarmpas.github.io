@@ -51,6 +51,7 @@ Our work at Cogitat was featured in the following articles:
 
 ## Presentations And Talks
 
+| April 2024 | "Unlocking the brain with AI: Advancing BCIs with Deep Learning" at Microsoft AI Tech Talk for MVPs, RDs and Ambassadors - [Post]()|
 | March 2024 | "Unlocking the brain with AI: Advancing BCIs with Deep Learning" at Imperial College School of Medicine (ICSM) Coding The Future of Healthcare Conference 2024 - [Post](https://www.instagram.com/p/C4insQuNF7f/?igsh=cHdrYXdkdGFrcmc5)|
 | November 2023 | "Unlocking the brain with AI" at St. Paul's Girls' School Computer Science Society - [Tweet](https://twitter.com/ntinosbarmpas/status/1730196094745727476?s=46&t=4TmpE2ufZxNUkRwA4FDqig)|
 | August 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at Oxford Machine Learning Summer School 2022 (Unconference) — [Video](https://www.youtube.com/watch?v=-v5KIe4RWQg)|
