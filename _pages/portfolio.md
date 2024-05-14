@@ -5,12 +5,13 @@ excerpt: ""
 author_profile: true
 ---
 
-## Featured Articles
+## Featured Media
 
-Our work at Cogitat was featured in the following articles:
+Our work at Cogitat was featured in the following media:
 
 | Date  | Media  | 
 | -------- | -------- | 
+| May 2024 | **British Computing Society** - *[Link](https://digitalpioneers.bcs.org/series_partners/imperial-college-london/)* | 
 | March 2024 | **Sky News** - *[Link](https://www.youtube.com/watch?app=desktop&feature=shared&v=0sjUPR2u2C0)* | 
 | February 2024 | **Sky News** - *[Link](https://news.sky.com/video/elon-musks-neuralink-company-implants-brain-chip-in-human-for-first-time-13060639)* | 
 | February 2024 | **The Times** - *[Link](https://www.thetimes.co.uk/article/brain-technology-has-sparked-a-wave-of-innovation-in-britain-n8q9n6c2r)* | 
