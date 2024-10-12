@@ -15,8 +15,4 @@ Authors: <strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Yannis Pan
 
 The use of Generative AI (GenAI) in developing large brainwave foundation models for Brain-Computer Interfaces (BCIs) offers enormous potential but also comes with several key safety and ethical concerns. This work identifies these challenges and highlights cases of potential misuse of GenAI in BCIs, including synthetic neural activity, behaviour profiling, privacy and equality risks. Finally, it emphasizes the importance of essential safeguarding techniques to mitigate these risks, such as innovative technological solutions and proper regulatory and ethical frameworks.
 
-**ICLR24 TS4H Poster**
-
-
-![](../images/pub_iclr2024_ts4h/ts4h_poster_2024.png)
-
+**NeurIPS GenAI4Health Poster**
