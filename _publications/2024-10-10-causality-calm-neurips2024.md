@@ -1,22 +1,20 @@
 ---
-title: "Subject Selection Framework to Improve Personalised Models for Motor-Imagery BCIs via Wavelets and Graph Diffusion"
+title: "A Causal Perspective in Brainwave Foundation Models"
 collection: publications
-permalink: /publication/2024-03-15-pooling-ts4h
-excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper](https://openreview.net/pdf?id=BQjdAAA7Ob)] [[Poster](https://www.barmpas.com/publication/2024-03-15-pooling-ts4h)] '
+permalink: /publication/2024-10-10-causality-calm-neurips2024
+excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper]()] [[Poster]()] '
 status: 'Published'
-venue: '<strong>ICLR 2024</strong> - Workshop on Learning from Time Series For Health (TS4H)' 
+venue: '<strong>NeurIPS 2024</strong> - Workshop on Causality and Large Models (CaLM)' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
-date: 2024-03-15
+date: 2024-10-10
 ---
 
 Authors: <strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou
 
-[[ICLR TS4H Page](https://iclr.cc/virtual/2024/workshop/20582)] - [[Workshop Page](https://timeseriesforhealth.github.io)] - [[Repo](https://github.com/KonstantinosBarmpas/Subject-Pooling)]
+[[NeurIPS CaLM Page]()] - [[Workshop Page](https://calm-workshop-2024.github.io)] - [[Repo]()]
 
-Personalized electroencephalogram (EEG) decoders hold a distinct preference in healthcare applications, especially in the context of Motor-Imagery (MI) Brain-Computer Interfaces (BCIs), owing to their inherent capability to effectively tackle inter-subject variability. This study introduces a novel subject selection framework that blends ideas from discriminative learning (based on continuous wavelet transform) and graph-signal processing (over the sensor array). Through experimentation with a publicly available MI dataset, we showcase enhanced personalized performance for MI-BCIs. Notably, it proves particularly advantageous for subjects who initially demonstrated suboptimal personalized performance.
+Foundation Models have recently emerged as powerful tools in various domains of AI, showing potential for significant advancements in Brain-Computer Interfaces (BCIs). However, the initial implementations of Large Brainwave Models (LBMs) face significant challenges when applied to real-world scenarios, primarily due to various distribution shifts. This work examines the training process of these LBMs through a causal reasoning perspective, identifying key challenges that impact their performance. By doing so, we aim to provide insights that can guide the development of more robust and effective LBMs for BCI applications.
 
-**ICLR24 TS4H Poster**
+**NeurIPS2024 CaLM Poster**
 
-
-![](../images/pub_iclr2024_ts4h/ts4h_poster_2024.png)
 
