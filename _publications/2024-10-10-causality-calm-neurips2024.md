@@ -17,4 +17,5 @@ Foundation Models have recently emerged as powerful tools in various domains of 
 
 **NeurIPS2024 CaLM Poster**
 
+![](../images/pub_neurips2024/calm_2024_poster.png)
 
