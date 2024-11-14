@@ -2,7 +2,7 @@
 title: "A Causal Perspective in Brainwave Foundation Models"
 collection: publications
 permalink: /publication/2024-10-10-causality-calm-neurips2024
-excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper]()] [[Poster]()] '
+excerpt: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper](https://openreview.net/pdf?id=IGSDECEKt8)] [[Poster]()] '
 status: 'Published'
 venue: '<strong>NeurIPS 2024</strong> - Workshop on Causality and Large Models (CaLM)' 
 authors: '<strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
