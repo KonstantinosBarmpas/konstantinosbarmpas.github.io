@@ -5,15 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-## Awards
-
-| Date  | Award | Affiliation | 
-| -------- | -------- | -------- | 
-| 2021 | **First Prize Award (Team Cogitat)** <br /> *Winning team at the Benchmarks for EEG Transfer Learning (BEETL) Competition NeurIPS 2021. Sponsored by Facebook Reality Labs* | Ph.D. Student at Imperial College London - Machine Learning Engineer at Cogitat |
-| 2020 | **Doctoral Scholarship Award** <br /> *Stipend and Tuition Fees award for the duration of my doctoral research at Imperial College London* | Ph.D. Student at Imperial College London |
-| 2019 | **Swiss Mobility Programme Scholarship** <br /> *Scholarship for getting accepted as a Master’s exchange student at ETH Zurich* | M.Eng. Student at ETH Zurich |
-| 2018 | **Year Group Project Award** <br /> *Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype* | M.Eng. Student at Imperial College London |
-
 ## Associations
 
 | December 2024 | **ELLIS Member** ELLIS Society - [ELLIS](https://ellis.eu/) |
@@ -21,6 +12,15 @@ author_profile: true
 | September 2023 | **Associate Fellowship** Advance Higher Education - [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) |
 | June 2023 | **Registered Engineer** in Greece - [TEE](http://portal.tee.gr/portal/page/portal/TEE/TEE_MEMBERS) |
 | August 2017 | **Google Certiﬁed Associate Android Developer** — [Badge](https://bcert.me/bc/html/show-badge.html?b=qcadelp) |
+
+## Academic Awards
+
+| Date  | Award | Affiliation | 
+| -------- | -------- | -------- | 
+| 2021 | **First Prize Award (Team Cogitat)** <br /> *Winning team at the Benchmarks for EEG Transfer Learning (BEETL) Competition NeurIPS 2021. Sponsored by Facebook Reality Labs* | Ph.D. Student at Imperial College London - Machine Learning Engineer at Cogitat |
+| 2020 | **Doctoral Scholarship Award** <br /> *Stipend and Tuition Fees award for the duration of my doctoral research at Imperial College London* | Ph.D. Student at Imperial College London |
+| 2019 | **Swiss Mobility Programme Scholarship** <br /> *Scholarship for getting accepted as a Master’s exchange student at ETH Zurich* | M.Eng. Student at ETH Zurich |
+| 2018 | **Year Group Project Award** <br /> *Award for achieving 3rd place in our cohort in the 2nd Year Group Project module for our Braillio prototype* | M.Eng. Student at Imperial College London |
 
 ## Hackathons, Seminars & Competitions
 
