@@ -5,24 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-## Featured Media
-
-Our work at Cogitat was featured in the following media:
-
-| Date  | Media  | 
-| -------- | -------- | 
-| May 2024 | **British Computing Society** - *[Link](https://digitalpioneers.bcs.org/series_partners/imperial-college-london/)* | 
-| March 2024 | **Sky News** - *[Link](https://www.youtube.com/watch?app=desktop&feature=shared&v=0sjUPR2u2C0)* | 
-| February 2024 | **Sky News** - *[Link](https://news.sky.com/video/elon-musks-neuralink-company-implants-brain-chip-in-human-for-first-time-13060639)* | 
-| February 2024 | **The Times** - *[Link](https://www.thetimes.co.uk/article/brain-technology-has-sparked-a-wave-of-innovation-in-britain-n8q9n6c2r)* | 
-| February 2024 | **EU Startups** - *[Link](https://www.eu-startups.com/2024/02/greek-rising-stars-10-innovative-startups-you-must-keep-an-eye-on-in-2024-and-beyond/?)* | 
-| January 2024 | **New Statesman** - *[Link](https://www.newstatesman.com/science-tech/big-tech/2024/01/mind-reading-elon-musk-neuralink)* | 
-| June 2023 | **The Times** - *[Link](https://www.thetimes.co.uk/article/i-played-a-video-game-by-thinking-the-mind-reader-revolution-is-real-ml59c86mx)* | 
-| February 2023 | **BBC** - *[Link](https://www.bbc.co.uk/news/technology-64720533)* | 
-| February 2023 | **Telegraph** - *[Link](https://www.telegraph.co.uk/business/2023/01/23/nhs-surgeon-challenging-musks-technology-connect-brain-internet/)* | 
-| January 2023 | **Sifted** - *[Link](https://sifted.eu/articles/cogitat-grant-news/)* | 
-| October 2022 | **Business Insider** - *[Link](https://www.businessinsider.com/these-are-13-wearable-technology-and-remote-monitoring-startups-2022-9)* |
-
 ## Awards
 
 | Date  | Award | Affiliation | 
@@ -79,14 +61,6 @@ Our work at Cogitat was featured in the following media:
 | 2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 | 2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
 
-## Selected Projects
-
-| 2019 | **Advanced Machine Learning Projects** <br /> *Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”* - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects) | Student at Swiss Federal Institute of Technology (ETH Zurich) |
-| 2019 | **Image Descriptors** <br /> *Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space* - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning) | Student at Imperial College London (ICL) |
-| 2019 | **Asthmaway** <br /> *Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Asthmaway) | Student at Imperial College London (ICL) |
-| 2018 | **Braillio** <br /> *Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Braillio) | Student at Imperial College London (ICL) |
-| 2016 - 2021 | **The Mouse Originals** <br /> *Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM)* - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US) | Android Developer (The Mouse Team) |
-
 ## Languages
 
 - Greek (Native)
@@ -97,3 +71,11 @@ Our work at Cogitat was featured in the following media:
 
 - Greek
 - British
+
+## Selected Pre-PhD Projects
+
+| 2019 | **Advanced Machine Learning Projects** <br /> *Projects in topics “Prediction of the age of a person from their MRI scan”, ”Multi-class classiﬁcation in an unbalanced dataset”, ”Heart rhythm classiﬁcation from raw ECG signals” and “Sleep staging classiﬁcation from raw EEG/EMG signals”* - [Link](https://github.com/KonstantinosBarmpas/Advanced-Machine-Learning-Projects) | Student at Swiss Federal Institute of Technology (ETH Zurich) |
+| 2019 | **Image Descriptors** <br /> *Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space* - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning) | Student at Imperial College London (ICL) |
+| 2019 | **Asthmaway** <br /> *Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Asthmaway) | Student at Imperial College London (ICL) |
+| 2018 | **Braillio** <br /> *Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Braillio) | Student at Imperial College London (ICL) |
+| 2016 - 2021 | **The Mouse Originals** <br /> *Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM)* - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US) | Android Developer (The Mouse Team) |
