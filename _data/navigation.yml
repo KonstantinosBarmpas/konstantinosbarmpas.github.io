@@ -9,14 +9,11 @@ main:
   - title: "Talks / Media"
     url: /talks/    
 
-  # - title: "Guide"
-  #  url: /markdown/
+  - title: "Service / Leadership"
+    url: /leadership/
 
   - title: "CV"
     url: https://www.linkedin.com/in/konstantinos-barmpas/  
     
   - title: "More"
     url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /leadership/
