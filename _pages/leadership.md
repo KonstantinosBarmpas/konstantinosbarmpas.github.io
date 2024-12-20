@@ -31,7 +31,7 @@ author_profile: true
 ### Academic Representation  
 
 - **Ph.D. Year Student Academic Representative (October 2020 – July 2024)**  
-   Represented students in the Department of Computing at Imperial College London.  
+   Represented students in the Department of Computing at Imperial College London  
    - Shortlisted for the PG Representative of the Year Award (2023)  
    [LinkedIn Post](https://www.linkedin.com/posts/konstantinos-barmpas_super-happy-to-be-shortlisted-for-the-pg-activity-7077236833759158272-NQTI?utm_source=share&utm_medium=member_desktop)
 
@@ -51,7 +51,7 @@ author_profile: true
 ### Volunteering  
 
 - **Imperial Plus Awarded Volunteer (October 2016 – May 2018)**  
-   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives.  
+   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives  
    [Imperial Plus Program](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition).  
 
 - **Fundraiser, Job Fair Athens (October 2015 – May 2016)**  
