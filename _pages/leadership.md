@@ -9,8 +9,6 @@ author_profile: true
 
 ### Conferences and Events  
 
-- **Co-Organizer, London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School (August 2022 – July 2024)**  
-
 - **Main Organizer, Imperial Computing Conference ([ICC](https://bit.ly/icc22)) (April 2021 – July 2024)**  
    Responsible for sponsorships and organized talks with distinguished speakers, including:  
    - [Maja Pantic](https://eur03.safelinks.protection.outlook.com/GetUrlReputation) (Meta)
@@ -27,6 +25,8 @@ author_profile: true
    - [Thomas Barrett](https://scholar.google.co.uk/citations?user=nJa1KGIAAAAJ&hl=en) (InstaDeep)
    - [Samyakh Tukra](https://scholar.google.co.uk/citations?user=Mkxk50oAAAAJ&hl=en) (Shell)
    - [Natalie Wu](https://www.lakera.ai/about) (Lakera AI), [Max Mathys](https://www.lakera.ai/about) (Lakera AI)
+ 
+- **Co-Organizer, London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School (August 2022 – July 2024)**  
 
 ### Academic Representation  
 
