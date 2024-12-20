@@ -9,7 +9,7 @@ author_profile: true
 
 ### Conferences and Events  
 
-- **Co-Organizer, London Geometry and Machine Learning (LOGML) Summer School (August 2022 – July 2024)**  
+- **Co-Organizer, London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School (August 2022 – July 2024)**  
 
 - **Main Organizer, Imperial Computing Conference ([ICC](https://bit.ly/icc22)) (April 2021 – July 2024)**  
    Responsible for sponsorships and organized talks with distinguished speakers, including:  
@@ -32,13 +32,12 @@ author_profile: true
 
 - **Ph.D. Year Student Academic Representative (October 2020 – July 2024)**  
    Represented students in the Department of Computing at Imperial College London.  
-   - Shortlisted for the PG Representative of the Year Award (2023).  
+   - Shortlisted for the PG Representative of the Year Award (2023)  
    [LinkedIn Post](https://www.linkedin.com/posts/konstantinos-barmpas_super-happy-to-be-shortlisted-for-the-pg-activity-7077236833759158272-NQTI?utm_source=share&utm_medium=member_desktop)
 
-- **Member, Equity, Diversity, and Culture Committee (January 2024 – June 2024)**  
-   Contributed to fostering inclusivity within the Department of Computing at Imperial College London.  
-   [More Details](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/).  
-
+- **Member, Equity, Diversity, and Culture Committee [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) (January 2024 – June 2024)**  
+   Contributed to fostering inclusivity within the Department of Computing at Imperial College London
+  
 ### Ambassadorships  
 
 - **Microsoft UK Student Learn Ambassador (April 2021 – June 2024)**  
@@ -62,9 +61,11 @@ author_profile: true
 ### Reviewing and Editorial Contributions  
 
 - **Reviewer (September 2022 – January 2024)**  
-   Reviewed submissions for:  
-   - *IEEE Transactions on Pattern Analysis and Machine Intelligence*  
-   - *IEEE Journal of Biomedical and Health Informatics*  
-   - *Symmetry and Geometry in Neural Representations (NeurReps)* at NeurIPS 2023  
-   - Nominated by the NeurReps Program Chair Committee.  
-   [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022).  
+   Reviewer for many prestigious AI journals and conferences:
+      - IEEE Transactions on Pattern Analysis and Machine Intelligence
+      - IEEE Journal of Biomedical and Health Informatics
+      - Patterns
+      - Frontiers in Psychiatry
+      - Journal of Clinical Medicine Research
+      - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS 2023 workshop
+      [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022).  
