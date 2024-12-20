@@ -41,11 +41,11 @@ author_profile: true
 ### Ambassadorships  
 
 - **Microsoft UK Student Learn Ambassador (April 2021 – June 2024)**  
-   Achieved Beta-level status.  
+   Achieved Beta-level status  
    [Profile](https://studentambassadors.microsoft.com/en-US/profile/106866)  
 
 - **Lakera AI Student Momentum Ambassador (March 2023 – June 2024)**  
-   Promoted AI learning resources.  
+   Participated (along with over 1,000 other experts and major companies) in shaping Lakera’s GenAI Security Readiness [Report](https://www.lakera.ai/genai-security-report-2024)  
    [Momentum Program](https://www.lakera.ai/momentum)  
 
 ### Volunteering  
