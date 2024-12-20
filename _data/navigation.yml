@@ -7,13 +7,13 @@ main:
     url: https://www.linkedin.com/in/konstantinos-barmpas/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Talks / Media"
+    url: /talks/    
     
   - title: "More"
     url: /portfolio/
-    
-  - title: "Talks"
-    url: /talks/    
 
   #- title: "Blog Posts"
     #url: /year-archive/
