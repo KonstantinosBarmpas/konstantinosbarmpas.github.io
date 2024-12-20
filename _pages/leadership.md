@@ -5,32 +5,6 @@ excerpt: "A showcase of awards and leadership roles in my academic and professio
 author_profile: true
 ---
 
-# Awards and Leadership
-
-## Awards  
-
-### 2021  
-**First Prize Award (Team Cogitat)**  
-Winning team at the Benchmarks for EEG Transfer Learning (BEETL) Competition (NeurIPS 2021), sponsored by Facebook Reality Labs.  
-*Role: Ph.D. Student, Imperial College London / Machine Learning Engineer, Cogitat.*
-
-### 2020  
-**Doctoral Scholarship Award**  
-Stipend and tuition fees awarded for doctoral research at Imperial College London.  
-*Role: Ph.D. Student, Imperial College London.*
-
-### 2019  
-**Swiss Mobility Programme Scholarship**  
-Scholarship for Master’s exchange program at ETH Zurich.  
-*Role: M.Eng. Student, ETH Zurich.*
-
-### 2018  
-**Year Group Project Award**  
-Achieved 3rd place for the Braillio prototype in the 2nd Year Group Project module.  
-*Role: M.Eng. Student, Imperial College London.*
-
----
-
 ## Leadership and Service  
 
 ### Conferences and Events  
