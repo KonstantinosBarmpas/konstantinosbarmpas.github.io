@@ -63,7 +63,7 @@ author_profile: true
 - **Reviewer (September 2022 – January 2024)**  
    Reviewer for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
-  - - IEEE Journal of Biomedical and Health Informatics
+  - IEEE Journal of Biomedical and Health Informatics
   - Patterns
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
