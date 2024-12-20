@@ -1,7 +1,7 @@
 ---
 permalink: /leadership/
-title: "Awards and Leadership"
-excerpt: "A showcase of awards and leadership roles in my academic and professional journey."
+title: "Service and Leadership"
+excerpt: "A showcase of service and leadership roles in my academic and professional journey."
 author_profile: true
 ---
 
