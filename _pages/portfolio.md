@@ -50,21 +50,6 @@ Our work at Cogitat was featured in the following media:
 | October 2016 - May 2018 | **Imperial Plus Awarded Volunteer** for two consecutive years <br /> *Volunteer at St John & St Elizabeth Hospital, Member of #helloICU Crew, Commemoration Day Volunteer* - [Link](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition) |
 | October 2015 - May 2016 | **Fundraiser at Job Fair Athens** <br /> *Member of Fund Raising Team targeting companies in electronics, robotics and biomedical fields – responsible for recruiting 2 companies out of almost 50 that attended our event* - [Link](https://www.jobfairathens.gr/) |
 
-## Presentations And Talks
-
-| April 2024 | "Unlocking the brain with AI: Advancing BCIs with Deep Learning" at Microsoft AI Tech Talk for MVPs, RDs and Ambassadors - [Post](https://www.linkedin.com/posts/konstantinos-barmpas_in-the-past-two-months-ive-delivered-two-activity-7187051290579898368-w1VQ?utm_source=share&utm_medium=member_desktop)|
-| March 2024 | "Unlocking the brain with AI: Advancing BCIs with Deep Learning" at Imperial College School of Medicine (ICSM) Coding The Future of Healthcare Conference 2024 - [Post](https://www.instagram.com/p/C4insQuNF7f/?igsh=cHdrYXdkdGFrcmc5)|
-| November 2023 | "Unlocking the brain with AI" at St. Paul's Girls' School Computer Science Society - [Tweet](https://twitter.com/ntinosbarmpas/status/1730196094745727476?s=46&t=4TmpE2ufZxNUkRwA4FDqig)|
-| August 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at Oxford Machine Learning Summer School 2022 (Unconference) — [Video](https://www.youtube.com/watch?v=-v5KIe4RWQg)|
-| July 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at Pre-sessional ResearchFest! (Imperial College London) — [Tweet](https://twitter.com/NtinosBarmpas/status/1553003819537162241?s=20&t=BQt5jt_ai3EHwAb8eTWNwg)|
-| June 2022 | "Department of Computing Drop-In Demonstrations" at The Great Exhibition Road Festival — [Message from the Head of Department](https://twitter.com/mrahuth/status/1538515212541865984?s=21&t=aoLeV2y-2NsRtoE2OQgfUw) / [Announcement](https://www.imperial.ac.uk/alumni/events/alumni-weekend/the-programme/computing-demos/)|
-| May 2022 | "A Causal Viewpoint on Motor-Imagery Brainwave Decoding" at BCI Society Next Gen: Trainee Spotlight 2 — [Video](https://www.youtube.com/watch?v=d97lPpKcyOo&t=650s) / [Announcement](https://bcisociety.org/event/next-gen-trainee-spotlight-2/)|
-| February 2022 | "Deep Learning Techniques for Brain-Computer Interfaces" at DoC Showcase Day (Imperial College London) - [Video](https://youtu.be/PMu3Ds33Xtk)|
-| December 2021 | "Featuring PhD student Konstantinos" at Doc Clock (Imperial College London) — [Video](https://www.youtube.com/watch?v=oRj8QuEXjPE) |
-| November 2021 | "From IoT Devices to Time-Series Insights (Part 2)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/DwnsCZJbnwc) |
-| August 2021 | "From IoT Devices to Time-Series Insights (Part 1)" at Microsoft Ambassador Workshop Event — [Video](https://youtu.be/1qhsUl6LdyU) |
-| August 2020 | "Certifying Properties of Deep Networks by Taking them into Shallow Waters" at the Data Analytics Lab — [Video](https://www.youtube.com/watch?v=fe72ryGoqLE&t=16s)|
-
 ## Hackathons, Seminars & Competitions
 
 | 2023 | TechxBio Oxford Mixer hosted by [Valence Labs](https://www.valencelabs.com/) and [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en) |
