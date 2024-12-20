@@ -9,8 +9,8 @@ main:
   - title: "Talks / Media"
     url: /talks/    
 
-  - title: "Guide"
-   url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
 
   - title: "CV"
     url: https://www.linkedin.com/in/konstantinos-barmpas/  
@@ -18,5 +18,5 @@ main:
   - title: "More"
     url: /portfolio/
 
-  #- title: "Blog Posts"
-    #url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
