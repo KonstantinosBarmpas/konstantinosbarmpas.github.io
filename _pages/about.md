@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Postdoctoral Research Associate at the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing) developing Generative Foundation Models for Biosignals used in Brain-Computer Interfaces (BCIs). 
-
-ELLIS Member, Fellowship Advance Higher Education and Registered Engineer in Greece (TEE)
+Currently, I am a Postdoctoral Research Associate at the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing) developing Generative Foundation Models for Biosignals used in Brain-Computer Interfaces (BCIs). I have been awarded the Fellowship Advance Higher Education ([FHEA](https://www.advance-he.ac.uk/fellowship)). I am a Member of European Laboratory for Learning and Intelligent Systems ([ELLIS](https://ellis.eu/members)) and a Registered Engineer in Greece ([TEE](https://web.tee.gr/)).
 
 **PhD** Graduate in Computer Science (Artificial Intelligence) from the [Department of Computing, Imperial College London](https://www.imperial.ac.uk/computing), where I conducted my research under the supervision of [Prof. Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/). My doctoral research, titled “Enhancing Motor-Imagery Brain-Computer Interfaces Through Deep Learning,” explored intersections between Deep Learning and Brain-Computer Interfaces, including Differentiable Signal Processing, Geometric Deep Learning and Causality. I passed my PhD defence with **no corrections** and my work has been published in top-tier AI venues.
 
