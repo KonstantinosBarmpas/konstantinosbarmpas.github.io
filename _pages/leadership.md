@@ -9,16 +9,24 @@ author_profile: true
 
 ### Conferences and Events  
 
-- **Main Organizer, Imperial Computing Conference (April 2021 – July 2024)**  
-   Organized talks with distinguished speakers, including:  
-   - Maja Pantic (Meta)  
-   - Petar Veličković (DeepMind)  
-   - Shakir Mohamed (DeepMind)  
-   - David Pfau (DeepMind)  
-   - And more.  
-   [More Details](https://bit.ly/icc22).  
-
 - **Co-Organizer, London Geometry and Machine Learning (LOGML) Summer School (August 2022 – July 2024)**  
+
+- **Main Organizer, Imperial Computing Conference ([ICC](https://bit.ly/icc22)) (April 2021 – July 2024)**  
+   Responsible for sponsorships and organized talks with distinguished speakers, including:  
+   - [Maja Pantic](https://eur03.safelinks.protection.outlook.com/GetUrlReputation) (Meta)
+   - [Petar Veličković](https://petar-v.com/) (DeepMind)
+   - [Shakir Mohamed](https://shakirm.com/) (DeepMind)
+   - [David Pfau](http://davidpfau.com) (DeepMind)
+   - [Kimon Fountoulakis](https://uwaterloo.ca/data-science/about/people/kimon-fountoulakis) (University of Waterloo)
+   - [Marily Nika](https://www.imperial.ac.uk/Stories/alumni-awards-2021-marily/) (Google and Harvard University)
+   - [Lukas Wutschitz](https://www.microsoft.com/en-us/research/people/luwutsch/) (Microsoft)
+   - [Ann Blandford](https://www.ucl.ac.uk/pals/people/ann-blandford) (UCL)
+   - [Pauline Bolignano](https://www.amazon.science/author/pauline-bolignano) (Amazon)
+   - [Oana Cocarascu](https://www.kcl.ac.uk/people/oana-cocarascu) (King's College London)
+   - [Grigorios Pavliotis](https://www.imperial.ac.uk/people/g.pavliotis) (Imperial)
+   - [Thomas Barrett](https://scholar.google.co.uk/citations?user=nJa1KGIAAAAJ&hl=en) (InstaDeep)
+   - [Samyakh Tukra](https://scholar.google.co.uk/citations?user=Mkxk50oAAAAJ&hl=en) (Shell)
+   - [Natalie Wu](https://www.lakera.ai/about) (Lakera AI), [Max Mathys](https://www.lakera.ai/about) (Lakera AI) |
 
 ### Academic Representation  
 
