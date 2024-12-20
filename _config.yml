@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kontantinos Barmpas"
 title_separator          : "-"
 name                     : &name "Kontantinos Barmpas"
-description              : &description "Postodoctoral Research Associate @ Imperial College London | Machine Learning Engineer @ Cogitat | PhD, MEng, FHEA, ELLIS Member"
+description              : &description "Postdoctoral Research Associate @ Imperial College London | Machine Learning Engineer @ Cogitat | PhD, MEng, FHEA, ELLIS Member"
 url                      : https://konstantinosbarmpas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "konstantinosbarmpas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kontantinos Barmpas"
   avatar           : "barmpas_photo.jpg"
-  bio              : "Postodoctoral Research Associate @ Imperial College London | Machine Learning Engineer @ Cogitat | PhD, MEng, FHEA, ELLIS Member"
+  bio              : "Postdoctoral Research Associate @ Imperial College London | Machine Learning Engineer @ Cogitat | PhD, MEng, FHEA, ELLIS Member"
   location         : "London, United Kingdom"
   employer         : 
   pubmed           : 
