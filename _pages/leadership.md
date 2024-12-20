@@ -61,11 +61,10 @@ author_profile: true
 ### Reviewing and Editorial Contributions  
 
 - **Reviewer (September 2022 – January 2024)**  
-   Reviewer for many prestigious AI journals and conferences:
+   Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - IEEE Journal of Biomedical and Health Informatics
   - Patterns
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
-  - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS 2023 workshop
-  [Reviewer Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022).  
+  - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS 2023 workshop  
