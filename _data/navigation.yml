@@ -12,8 +12,8 @@ main:
   - title: "More"
     url: /portfolio/
     
-  #- title: "Talks"
-    #url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   #- title: "Blog Posts"
     #url: /year-archive/
