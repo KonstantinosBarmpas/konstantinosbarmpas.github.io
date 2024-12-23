@@ -27,6 +27,7 @@ author_profile: true
    - [Natalie Wu](https://www.lakera.ai/about) (Lakera AI), [Max Mathys](https://www.lakera.ai/about) (Lakera AI)
  
 - **Co-Organizer, London Geometry and Machine Learning ([LOGML](https://www.logml.ai/)) Summer School (August 2022 – July 2024)**  
+   Scientific Committee: [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/)(University of Oxford), [Thomas Kipf](https://tkipf.github.io)(Google Deepmind), [Marinka Zitnik](https://zitniklab.hms.harvard.edu)(Harvard University), [Bastian Rieck](https://bastian.rieck.me)(Helmholtz Munich), [Xavier Bresson](https://graphdeeplearning.github.io/authors/xavier-bresson/)(National University of Singapore), [Heather Harrington](https://people.maths.ox.ac.uk/harrington/)(MPI-CBG Dresden), [Justin Solomon](http://people.csail.mit.edu/jsolomon/)(MIT), [Ulrike Tillmann](https://people.maths.ox.ac.uk/tillmann/)(Isaac Newton Institute for Mathematical Sciences)   
 
 ### Academic Representation  
 
@@ -49,10 +50,10 @@ author_profile: true
 ### Volunteering  
 
 - **Imperial Plus Awarded Volunteer (October 2016 – May 2018)**  
-   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives - [Imperial Plus Program](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition).  
+   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives - [Imperial Plus Program](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition)  
 
 - **Fundraiser, Job Fair Athens (October 2015 – May 2016)**  
-   Part of a fundraising team targeting companies in electronics, robotics, and biomedical fields. Successfully recruited two companies - [Job Fair Athens](https://www.jobfairathens.gr/).  
+   Part of a fundraising team targeting companies in electronics, robotics, and biomedical fields. Successfully recruited two companies - [Job Fair Athens](https://www.jobfairathens.gr/)  
 
 ### Reviewing and Editorial Contributions  
 
