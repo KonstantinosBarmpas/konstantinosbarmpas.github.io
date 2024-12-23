@@ -41,22 +41,18 @@ author_profile: true
 ### Ambassadorships  
 
 - **Microsoft UK Student Learn Ambassador (April 2021 – June 2024)**  
-   Achieved Beta-level status  
-   [Profile](https://studentambassadors.microsoft.com/en-US/profile/106866)  
+   Achieved Beta-level status - [Profile](https://studentambassadors.microsoft.com/en-US/profile/106866)  
 
 - **Lakera AI Student Momentum Ambassador (March 2023 – June 2024)**  
-   Participated (along with over 1,000 other experts and major companies) in shaping Lakera’s GenAI Security Readiness [Report](https://www.lakera.ai/genai-security-report-2024)  
-   [Momentum Program](https://www.lakera.ai/momentum)  
+   Participated (along with over 1,000 other experts and major companies) in shaping Lakera’s GenAI Security Readiness [Report](https://www.lakera.ai/genai-security-report-2024) - [Momentum Program](https://www.lakera.ai/momentum)  
 
 ### Volunteering  
 
 - **Imperial Plus Awarded Volunteer (October 2016 – May 2018)**  
-   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives  
-   [Imperial Plus Program](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition).  
+   Volunteered at St John & St Elizabeth Hospital and supported various university initiatives - [Imperial Plus Program](https://www-d7.imperialcollegeunion.org/social-action/imperial-plus/recognition).  
 
 - **Fundraiser, Job Fair Athens (October 2015 – May 2016)**  
-   Part of a fundraising team targeting companies in electronics, robotics, and biomedical fields. Successfully recruited two companies.  
-   [Job Fair Athens](https://www.jobfairathens.gr/).  
+   Part of a fundraising team targeting companies in electronics, robotics, and biomedical fields. Successfully recruited two companies - [Job Fair Athens](https://www.jobfairathens.gr/).  
 
 ### Reviewing and Editorial Contributions  
 
