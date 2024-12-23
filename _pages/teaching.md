@@ -7,7 +7,7 @@ author_profile: true
 
 Teaching is a core component of working in academia, so by working as a TA during my PhD as well as an undergraduate student, I had the chance to collaborate with brilliant academics, gain teaching experience and develop my own teaching style. Some of my TA roles are mentioned below. 
 
-As a result of my teaching activities, I have been awarded the **Fellowship Advance Higher Education**. 
+As a result of my teaching activities, I have been awarded the **Fellowship Advance Higher Education** (FHEA). 
 
 In parallel to my university teaching roles, I have been a student mentor for Udacity students as well as for Greek high students who are interested in studying STEM courses in Greece or abroad.
 
