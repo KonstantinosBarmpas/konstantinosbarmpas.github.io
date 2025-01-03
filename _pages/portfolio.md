@@ -71,4 +71,7 @@ author_profile: true
 
 ## Karate
 
-Karate Athlete. International: 4th Place in the World WKF Youth Cup 2011. Domestic: Member of the National Hellenic Karate Team with many national titles. Some featured articles: [Article 1 - World Cup](https://www.paramythia-online.gr/4804/nees-pagkosmies-diakriseis-sto-karate/) [Article 2 - National Championship Finals](https://www.passports.gr/alla-spor-6/453-22-metallia-sto-karate) [Article 3 - National Championship Semi-Finals](https://thesprotia-neaepoxi.blogspot.com/2009/04/blog-post_05.html)
+Karate Athlete. International: 4th Place in the World WKF Youth Cup 2011. Domestic: Member of the National Hellenic Karate Team with many national titles. Some featured articles: 
+- [Article 1 - World Cup](https://www.paramythia-online.gr/4804/nees-pagkosmies-diakriseis-sto-karate/)
+- [Article 2 - National Championship Finals](https://www.passports.gr/alla-spor-6/453-22-metallia-sto-karate)
+- [Article 3 - National Championship Semi-Finals](https://thesprotia-neaepoxi.blogspot.com/2009/04/blog-post_05.html)
