@@ -49,6 +49,7 @@ author_profile: true
 | 2018 | Self-Driving Car Nanodegree by Udacity |
 | 2018 | Bosch Connected World 2018 - Participant in the Autonomous Driving Challenge |
 | 2017 | Scholarship to Android Developer Nanodegree (Google & Udacity) |
+| 2015 | Summer Course Engineering Preparation at Oxford Royale Academy (University of Oxford) - [Interview](https://www.oxford-royale.com/alumni-stories) |
 
 ## Selected Pre-PhD Machine Learning Projects
 
