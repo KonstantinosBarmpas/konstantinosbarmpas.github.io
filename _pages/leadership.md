@@ -46,6 +46,7 @@ author_profile: true
 - **Reviewer (September 2022 – January 2024)**  
    Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - Nature Scientific Reports
   - IEEE Journal of Biomedical and Health Informatics
   - 25th International Conference on Digital Signal Processing
   - Patterns
