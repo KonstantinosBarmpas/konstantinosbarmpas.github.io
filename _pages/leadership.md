@@ -48,8 +48,8 @@ author_profile: true
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - Nature Scientific Reports
   - IEEE Journal of Biomedical and Health Informatics
-  - 25th International Conference on Digital Signal Processing
+  - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
+  - International Conference on Digital Signal Processing
   - Patterns
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
-  - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS 2023 workshop  
