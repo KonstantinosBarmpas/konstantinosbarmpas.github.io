@@ -2,14 +2,14 @@
 title: "Addressing Ethical Challenges and Safety Risks in GenAI-Powered Brain-Computer Interfaces"
 collection: publications
 permalink: /publication/2024-10-10-ethics-genai4health-neurips2024
-excerpt: '<strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper](https://openreview.net/pdf?id=N8CIlpniXs)] [[Poster](https://www.barmpas.com/publication/2024-10-10-ethics-genai4health-neurips2024)] '
+excerpt: '<strong>Konstantinos Barmpas\*</strong>, Georgios Zoumpourlis\*, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Paper](https://openreview.net/pdf?id=N8CIlpniXs)] [[Poster](https://www.barmpas.com/publication/2024-10-10-ethics-genai4health-neurips2024)] '
 status: 'Published'
 venue: '<strong>NeurIPS 2024</strong> - Workshop on GenAI for Health: Potential, Trust and Policy Compliance (GenAI4Health)' 
-authors: '<strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
+authors: '<strong>Konstantinos Barmpas\*</strong>, Georgios Zoumpourlis\*, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
 date: 2024-10-10
 ---
 
-Authors: <strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou
+Authors: <strong>Konstantinos Barmpas\*</strong>, Georgios Zoumpourlis\*, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou
 
 [[NeurIPS GenAI4Health Page](https://neurips.cc/virtual/2024/workshop/84723)] - [[Workshop Page](https://genai4health.github.io)] - [[Repo](https://github.com/KonstantinosBarmpas/GenAI4Health-BCIs-Safety)]
 
