@@ -50,6 +50,7 @@ author_profile: true
   - IEEE Journal of Biomedical and Health Informatics
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
   - International Conference on Digital Signal Processing
+  - Cognitive Neurodynamics
   - Patterns
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
