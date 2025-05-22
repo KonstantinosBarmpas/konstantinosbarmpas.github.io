@@ -52,5 +52,6 @@ author_profile: true
   - International Conference on Digital Signal Processing
   - Cognitive Neurodynamics
   - Patterns
+  - Signal, Image and Video Processing
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
