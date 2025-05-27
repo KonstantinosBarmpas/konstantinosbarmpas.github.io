@@ -23,13 +23,13 @@ author_profile: true
 
 ## Hackathons, Seminars & Competitions
 
-| 2025 | BCI & Neurotechnology Spring School 2025 by [(g.tec)](https://www.gtec.at/bci-neurotech-spring-school-2025/)|
-| 2024 | AI Security for Product Teams Course by [(Lakera)](https://credsverse.com/credentials/9a2a102e-8171-4259-ba32-93cf13bd3b6f)|
-| 2024 | BCI & Neurotechnology Spring School 2024 by [(g.tec)](https://www.gtec.at/spring-school-2024/)|
+| 2025 | BCI & Neurotechnology Spring School 2025 by [g.tec](https://www.gtec.at/bci-neurotech-spring-school-2025/)|
+| 2024 | AI Security for Product Teams Course by [Lakera](https://credsverse.com/credentials/9a2a102e-8171-4259-ba32-93cf13bd3b6f)|
+| 2024 | BCI & Neurotechnology Spring School 2024 by [g.tec](https://www.gtec.at/spring-school-2024/)|
 | 2023 | Royal Society Neural Interfaces [Summit](https://royalsociety.org/science-events-and-lectures/2023/09/royal-society-neural-interfaces-summit-2023/) 2023 |
 | 2023 | Neurotechnology and You Seminar at Imperial College London |
 | 2023 | Advanced AI Product Management with Technical Deep Dive by [Marily Nika](https://maven.com/certificate/duyJNjdf)|
-| 2023 | BCI & Neurotechnology Spring School 2023 by [(g.tec)](https://www.gtec.at/spring-school-2023/)|
+| 2023 | BCI & Neurotechnology Spring School 2023 by [g.tec](https://www.gtec.at/spring-school-2023/)|
 | 2022 | ELLIS Doctoral Symposium 2022 [(EDS)](https://ellis.eu/events/ellis-doctoral-symposium-2022)|
 | 2022 | Oxford Machine Learning School 2022 [(OxML)](https://www.oxfordml.school/)|
 | 2022 | Participant in the Project: PDE-Inspired Sheaf Neural Networks by [Cristian Bodnar](https://scholar.google.com/citations?user=pSmh9tkAAAAJ&hl=en) at LOGML2022 |
