@@ -23,7 +23,9 @@ author_profile: true
 
 ## Hackathons, Seminars & Competitions
 
-| 2023 | TechxBio Oxford Mixer hosted by [Valence Labs](https://www.valencelabs.com/) and [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en) |
+| 2025 | BCI & Neurotechnology Spring School 2025 by [(g.tec)](https://www.gtec.at/bci-neurotech-spring-school-2025/)|
+| 2024 | AI Security for Product Teams Course by [(Lakera)](https://credsverse.com/credentials/9a2a102e-8171-4259-ba32-93cf13bd3b6f)|
+| 2024 | BCI & Neurotechnology Spring School 2024 by [(g.tec)](https://www.gtec.at/spring-school-2024/)|
 | 2023 | Royal Society Neural Interfaces [Summit](https://royalsociety.org/science-events-and-lectures/2023/09/royal-society-neural-interfaces-summit-2023/) 2023 |
 | 2023 | Neurotechnology and You Seminar at Imperial College London |
 | 2023 | Advanced AI Product Management with Technical Deep Dive by [Marily Nika](https://maven.com/certificate/duyJNjdf)|
