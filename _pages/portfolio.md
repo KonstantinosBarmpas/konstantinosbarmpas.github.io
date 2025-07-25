@@ -16,6 +16,8 @@ author_profile: true
 
 | Date  | Award | Affiliation | 
 | -------- | -------- | -------- | 
+
+| 2025 | Awarded 2nd Place in the **G-Research’s Imperial College London PhD Prize**. <br /> *This [prize](https://www.gresearch.com/news/g-research-2025-phd-prize-winners-imperial-college-london/) recognises outstanding PhD research across fields like Machine Learning, Computer Science, Mathematics, Engineering and beyond.* | Ph.D. Student at Imperial College London |
 | 2021 | **First Prize Award (Team Cogitat)** <br /> *Winning team at the Benchmarks for EEG Transfer Learning (BEETL) Competition NeurIPS 2021. Sponsored by Facebook Reality Labs* | Ph.D. Student at Imperial College London - Machine Learning Engineer at Cogitat |
 | 2020 | **Doctoral Scholarship Award** <br /> *Stipend and Tuition Fees award for the duration of my doctoral research at Imperial College London* | Ph.D. Student at Imperial College London |
 | 2019 | **Swiss Mobility Programme Scholarship** <br /> *Scholarship for getting accepted as a Master’s exchange student at ETH Zurich* | M.Eng. Student at ETH Zurich |
