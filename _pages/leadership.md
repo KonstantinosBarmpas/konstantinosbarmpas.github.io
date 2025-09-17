@@ -47,6 +47,7 @@ author_profile: true
    Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - Nature Scientific Reports
+  - Nature Scientific Data
   - IEEE Journal of Biomedical and Health Informatics
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
   - International Conference on Digital Signal Processing
