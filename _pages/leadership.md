@@ -57,3 +57,4 @@ author_profile: true
   - Signal, Image and Video Processing
   - Frontiers in Psychiatry
   - Journal of Clinical Medicine Research
+  - Neurophysiology
