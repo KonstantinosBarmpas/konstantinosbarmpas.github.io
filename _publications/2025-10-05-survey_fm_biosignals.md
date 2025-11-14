@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of Biosignal Foundation Models"
 collection: publications
-permalink: /publication/2025-10-05-preprint-survey_fm_biosignals
+permalink: /publication/2025-10-05-survey_fm_biosignals
 excerpt: 'Na Lee, <strong>Konstantinos Barmpas</strong>, Alexandros Koliosis, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Preprint]()]'
 status: 'Published'
 venue: '<strong>Preprint</strong>' 
