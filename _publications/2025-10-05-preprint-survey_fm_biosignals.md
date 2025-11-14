@@ -3,8 +3,8 @@ title: "A Comprehensive Review of Biosignal Foundation Models"
 collection: publications
 permalink: /publication/2025-10-05-preprint-survey_fm_biosignals
 excerpt: 'Na Lee, <strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou - [[Preprint]()]'
-status: 'Preprint'
-venue: '' 
+status: 'Published'
+venue: '<strong>Preprint</strong>' 
 authors: 'Na Lee, <strong>Konstantinos Barmpas</strong>, Yannis Panagakis, Dimitrios Adamos, Nikolaos Laskaris and Stefanos Zafeiriou'
 date: 2025-10-05
 ---
