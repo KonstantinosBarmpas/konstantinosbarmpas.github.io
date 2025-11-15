@@ -43,8 +43,8 @@ author_profile: true
 
 ### Reviewing and Editorial Contributions  
 
-- **Reviewer (September 2022 – April 2025)**  
-   Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
+- **Reviewer (2022 – Present)**  
+   WebOfScience Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - International Conference on Learning Representations (ICLR)
   - Nature Scientific Reports
@@ -56,5 +56,5 @@ author_profile: true
   - Patterns
   - Signal, Image and Video Processing
   - Frontiers in Psychiatry
-  - Journal of Clinical Medicine Research
   - Neurophysiology
+  - Journal of Clinical Medicine Research
