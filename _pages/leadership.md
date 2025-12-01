@@ -17,13 +17,16 @@ author_profile: true
 
 ### Academic Representation  
 
+- **Postdoctoral Academic Representative (October 2020 – Present)**  
+   Represented postdoc researcher in the Department of Computing at Imperial College London  
+
+- **Member, Equity, Diversity, and Culture Committee [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) (January 2024 – June 2024 & October 2025 - Present)**  
+   Contributed to fostering inclusivity within the Department of Computing at Imperial College London
+
 - **Ph.D. Year Student Academic Representative (October 2020 – July 2024)**  
    Represented students in the Department of Computing at Imperial College London  
    - Shortlisted for the PG Representative of the Year Award (2023)  
    [LinkedIn Post](https://www.linkedin.com/posts/konstantinos-barmpas_super-happy-to-be-shortlisted-for-the-pg-activity-7077236833759158272-NQTI?utm_source=share&utm_medium=member_desktop)
-
-- **Member, Equity, Diversity, and Culture Committee [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) (January 2024 – June 2024 & October 2025 - Present)**  
-   Contributed to fostering inclusivity within the Department of Computing at Imperial College London
   
 ### Ambassadorships  
 
