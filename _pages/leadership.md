@@ -58,3 +58,4 @@ author_profile: true
   - Frontiers in Psychiatry
   - Neurophysiology
   - Journal of Clinical Medicine Research
+  - Journal of Healthcare Informatics Research
