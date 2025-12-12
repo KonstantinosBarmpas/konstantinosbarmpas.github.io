@@ -18,10 +18,10 @@ author_profile: true
 ### Academic Representation  
 
 - **Postdoctoral Academic Representative (October 2020 – Present)**  
-   Represented postdoc researcher in the Department of Computing at Imperial College London  
+   Representing the postdoc researchers in the Department of Computing at Imperial College London  
 
-- **Member, Equity, Diversity, and Culture Committee [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) (January 2024 – June 2024 & October 2025 - Present)**  
-   Contributed to fostering inclusivity within the Department of Computing at Imperial College London
+- **Member of the Equity, Diversity, and Culture Committee [EDCC](https://www.imperial.ac.uk/computing/about/equality-and-diversity/edcc/) (January 2024 – June 2024 & October 2025 - Present)**  
+   Contributing to fostering inclusivity within the Department of Computing at Imperial College London
 
 - **Ph.D. Year Student Academic Representative (October 2020 – July 2024)**  
    Represented students in the Department of Computing at Imperial College London  
