@@ -24,6 +24,7 @@ author_profile: true
 
 ## Hackathons, Seminars & Competitions
 
+| 2025 | NeuroRVQ ([Paper](https://arxiv.org/pdf/2510.13068?)) Poster Presentation at Turing AI Fellowship Annual Event 2025
 | 2025 | BCI & Neurotechnology Spring School 2025 by [g.tec](https://www.gtec.at/bci-neurotech-spring-school-2025/)|
 | 2024 | AI Security for Product Teams Course by [Lakera](https://credsverse.com/credentials/9a2a102e-8171-4259-ba32-93cf13bd3b6f)|
 | 2024 | BCI & Neurotechnology Spring School 2024 by [g.tec](https://www.gtec.at/spring-school-2024/)|
@@ -60,7 +61,7 @@ author_profile: true
 | 2019 | **Image Descriptors** <br /> *Coursework with the objective of generating descriptors for noise-corrupted local image patches in the Euclidean Space* - [Link](https://github.com/KonstantinosBarmpas/Image-Descriptors-Deep-Learning) | Student at Imperial College London (ICL) |
 | 2019 | **Asthmaway** <br /> *Asthmaway IoT device provides children and parents with vital real time information on the intake of their prescribed dose of inhaler medicine. Responsible for the development of the Android app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Asthmaway) | Student at Imperial College London (ICL) |
 | 2018 | **Braillio** <br /> *Electric kindle-like device intended to aid in the education of young visually-impaired children. Achieved 3rd place in our cohort for our prototype. Responsible for the development of the Android mobile app and the programming of the central processing unit* - [Link](https://github.com/KonstantinosBarmpas/Braillio) | Student at Imperial College London (ICL) |
-| 2016 - 2021 | **The Mouse Originals** <br /> *Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM)* - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US) | Android Developer (The Mouse Team) |
+| 2016 - 2020 | **The Mouse Originals** <br /> *Researched and developed [Eleftheria App](https://www.youtube.com/watch?v=yV0UljftQsE), [Hara App](https://www.youtube.com/watch?v=LU8e0OLLNIQ), [RoadAI](https://www.youtube.com/watch?v=D8DlbBRjgEA), [UpliftMe](https://www.youtube.com/watch?v=CqzpO5eYuWQ), [HashMe](https://www.youtube.com/watch?v=HYYMbzI7VBc), [BudgetMe and NoteMe](https://www.youtube.com/watch?v=KUEFPqB2fYM)* - [Link](https://play.google.com/store/apps/developer?id=Mouse+Team&hl=en_US&gl=US) | Android Developer (The Mouse Team) |
 
 ## Languages
 
