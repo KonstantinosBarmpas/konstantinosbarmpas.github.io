@@ -17,3 +17,6 @@ Recent advances in large-scale pre-trained Electroencephalogram (EEG) models hav
 
 **NeurIPS2025 Foundation Models for the Brain and Body Workshop Poster**
 
+![](../images/pub_neurips2025/labram_plus_plus_poster.png)
+
+
