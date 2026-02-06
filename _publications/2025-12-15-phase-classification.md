@@ -2,7 +2,7 @@
 title: "EEG-D3: A Solution to the Hidden Overfitting Problem of Deep Learning Models"
 collection: publications
 permalink: /publication/2025-12-15-phase-classification
-excerpt: 'Siegfried Ludwig, Stylianos Bakas, <strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Dimitrios Adamos, Nikolaos Laskaris, Yannis Panagakis and Stefanos Zafeiriou' - [[Preprint](https://arxiv.org/pdf/2512.13806)]
+excerpt: 'Siegfried Ludwig, Stylianos Bakas, <strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Dimitrios Adamos, Nikolaos Laskaris, Yannis Panagakis and Stefanos Zafeiriou'
 status: 'Published'
 venue: '<strong>Preprint</strong>' 
 authors: 'Siegfried Ludwig, Stylianos Bakas, <strong>Konstantinos Barmpas</strong>, Georgios Zoumpourlis, Dimitrios Adamos, Nikolaos Laskaris, Yannis Panagakis and Stefanos Zafeiriou'
