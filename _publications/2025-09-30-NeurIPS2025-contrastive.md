@@ -17,3 +17,4 @@ Foundation models are beginning to reshape EEG representation learning, but exis
 
 **NeurIPS2025 Workshop on Learning from Time Series for Health Poster**
 
+![](../images/pub_neurips2024/contrastive_2025_poster.png)
