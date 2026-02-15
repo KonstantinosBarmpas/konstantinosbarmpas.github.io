@@ -61,5 +61,6 @@ author_profile: true
   - Signal, Image and Video Processing
   - Frontiers in Psychiatry
   - Neurophysiology
+  - Archives of Computational Methods in Engineering
   - Journal of Clinical Medicine Research
   - Journal of Healthcare Informatics Research
