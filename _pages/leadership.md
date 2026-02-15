@@ -47,8 +47,9 @@ author_profile: true
 ### Reviewing and Editorial Contributions  
 
 - **Reviewer (2022 – Present)**  
-   WebOfScience Reviewer ([Profile](https://www.webofscience.com/wos/author/record/GXW-2915-2022)) for many prestigious AI journals and conferences:
+   Reviewer for many prestigious AI journals and conferences:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
   - Nature Scientific Reports
   - Nature Scientific Data
