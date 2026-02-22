@@ -48,12 +48,13 @@ author_profile: true
 
 - **Reviewer (2022 – Present)**  
    Reviewer for many prestigious AI journals and conferences:
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Engineering in Medicine and Biology Society (EMBC)
+  - IEEE Journal of Biomedical and Health Informatics
   - Nature Scientific Reports
   - Nature Scientific Data
-  - IEEE Journal of Biomedical and Health Informatics
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
   - International Conference on Digital Signal Processing
   - Cognitive Neurodynamics
