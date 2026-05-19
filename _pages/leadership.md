@@ -65,3 +65,6 @@ author_profile: true
   - Archives of Computational Methods in Engineering
   - Journal of Clinical Medicine Research
   - Journal of Healthcare Informatics Research
+  - Journal on Advances in Signal Processing
+  - Brain Informatics
+  - International Journal of Machine Learning and Cybernetics
