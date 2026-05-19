@@ -1,0 +1,14 @@
+---
+title: "Beyond Accuracy: Robustness, Interpretability and Expressiveness of EEG Foundation Models"
+collection: publications
+permalink: /publication/2026-05-16-interpretability-urban
+excerpt: 'Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong> - [[Preprint]()]'
+status: 'Published'
+venue: '<strong>Preprint</strong>' 
+authors: 'Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong>'
+date: 2026-05-16
+---
+
+Authors: Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong>
+
+EEG foundation models (EEG-FMs) have been evaluated predominantly on clean, in-distribution accuracy, leaving their robustness, interpretability and representational quality largely unexamined. This study addresses these gaps by benchmarking six EEG-FMs against a baseline deep learning model across eight datasets. Beyond clean accuracy, we conduct three layers of analysis: (i) Robustness: we apply test-time perturbations including additive noise, random and region-based channel dropout and region-specific noise injection. Our analyses show that no single model dominates all failure modes. The most noise-robust model is among the most fragile under channel dropout and much of the dropout fragility disappears when channels are removed rather than zero-padded. (ii) Interpretability: we present the first application of Attention-Aware Layer-Wise Relevance Propagation (AttnLRP) to EEG-FMs and show that models broadly concentrate relevance on task-appropriate brain regions consistent with known neurophysiology. However, attribution maps remain spatially stable under perturbation while predictions degrade, suggesting that the models attend to the correct brain regions but decode corrupted content. (iii) Expressiveness: With block-wise probing we show that late blocks are repurposed during fine-tuning, while early blocks already hold task-related information. Furthermore, we demonstrate that the poor head-only performance previously attributed to low-quality pre-trained representations is largely explained by pooling and that EEG-FMs possess sufficient representational capacity when their token-level embeddings are preserved. Together, these findings provide the first systematic assessment of robustness, interpretability and expressiveness for EEG-FMs and highlight critical considerations for their development.
