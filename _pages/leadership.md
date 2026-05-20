@@ -47,7 +47,7 @@ author_profile: true
 ### Reviewing and Editorial Contributions  
 
 - **Reviewer (2022 – Present)**  
-   Reviewer for many prestigious AI journals and conferences:
+   Recognized as "Gold Reviewer" for ICML 2026. Reviewer for many prestigious AI journals and conferences:
   - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
