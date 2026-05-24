@@ -68,3 +68,4 @@ author_profile: true
   - Journal on Advances in Signal Processing
   - Brain Informatics
   - International Journal of Machine Learning and Cybernetics
+  - Discover Artificial Intelligence
