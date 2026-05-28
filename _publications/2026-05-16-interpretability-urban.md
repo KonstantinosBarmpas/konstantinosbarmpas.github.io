@@ -2,7 +2,7 @@
 title: "Beyond Accuracy: Robustness, Interpretability and Expressiveness of EEG Foundation Models"
 collection: publications
 permalink: /publication/2026-05-16-interpretability-urban
-excerpt: 'Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong> - [[Preprint](https://arxiv.org/abs/2605.17562)][[Code](https://github.com/urbansirca/Beyond-Accuracy-Robustness-Interpretability-and-Expressiveness-of-EEG-Foundation-Models)]'
+excerpt: 'Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong> - [[Preprint](https://arxiv.org/abs/2605.17562)] [[Code](https://github.com/urbansirca/Beyond-Accuracy-Robustness-Interpretability-and-Expressiveness-of-EEG-Foundation-Models)]'
 status: 'Published'
 venue: '<strong>Preprint</strong>' 
 authors: 'Urban Širca, Maryam Alimardani, Stefanos Zafeiriou and <strong>Konstantinos Barmpas</strong>'
