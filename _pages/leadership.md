@@ -48,6 +48,7 @@ author_profile: true
 
 - **Reviewer (2022 – Present)**  
    Recognized as "Gold Reviewer" for ICML 2026. Reviewer for many prestigious AI journals and conferences:
+  - International Conference on Neural Information Processing Systems (NeurIPS)
   - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
@@ -67,5 +68,6 @@ author_profile: true
   - Journal of Healthcare Informatics Research
   - Journal on Advances in Signal Processing
   - Brain Informatics
+  - Communications AI & Computing 
   - International Journal of Machine Learning and Cybernetics
   - Discover Artificial Intelligence
