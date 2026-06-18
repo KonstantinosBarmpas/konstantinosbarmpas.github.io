@@ -52,6 +52,7 @@ author_profile: true
   - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - Transactions on Machine Learning Research
   - IEEE Engineering in Medicine and Biology Society (EMBC)
   - IEEE Journal of Biomedical and Health Informatics
   - Nature Scientific Reports
