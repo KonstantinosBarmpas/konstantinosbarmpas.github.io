@@ -54,9 +54,10 @@ author_profile: true
   - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - Transactions on Machine Learning Research
   - IEEE Engineering in Medicine and Biology Society (EMBC)
-  - IEEE Journal of Biomedical and Health Informatics
+  - IEEE Transactions on Biomedical Engineering
   - Nature Scientific Reports
   - Nature Scientific Data
+  - IEEE Journal of Biomedical and Health Informatics
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
   - International Conference on Digital Signal Processing
   - Cognitive Neurodynamics
