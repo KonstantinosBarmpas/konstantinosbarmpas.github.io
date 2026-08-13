@@ -51,13 +51,15 @@ author_profile: true
   - International Conference on Neural Information Processing Systems (NeurIPS)
   - International Conference on Machine Learning (ICML)
   - International Conference on Learning Representations (ICLR)
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence
-  - Transactions on Machine Learning Research
+  - Association for the Advancement of Artificial Intelligence (AAAI)
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - Transactions on Machine Learning Research (TMLR)
   - IEEE Engineering in Medicine and Biology Society (EMBC)
   - IEEE Transactions on Biomedical Engineering
   - Nature Scientific Reports
   - Nature Scientific Data
   - IEEE Journal of Biomedical and Health Informatics
+  - IEEE Transactions on Cognitive and Developmental Systems
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
   - International Conference on Digital Signal Processing
   - Cognitive Neurodynamics
