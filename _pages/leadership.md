@@ -61,6 +61,8 @@ author_profile: true
   - IEEE Journal of Biomedical and Health Informatics
   - IEEE Transactions on Cognitive and Developmental Systems
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
+  - Foundation Models for the Brain and Body (BrainBodyFM) NeurIPS Workshop
+  - GenAI for Health (GenAI4Health) NeurIPS Workshop
   - International Conference on Digital Signal Processing
   - Cognitive Neurodynamics
   - Patterns
