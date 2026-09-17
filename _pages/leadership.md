@@ -77,3 +77,4 @@ author_profile: true
   - Communications AI & Computing 
   - International Journal of Machine Learning and Cybernetics
   - Discover Artificial Intelligence
+  - Brain Topography
