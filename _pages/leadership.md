@@ -58,6 +58,7 @@ author_profile: true
   - IEEE Transactions on Biomedical Engineering
   - Nature Scientific Reports
   - Nature Scientific Data
+  - IEEE Transactions on Artificial Intelligence
   - IEEE Journal of Biomedical and Health Informatics
   - IEEE Transactions on Cognitive and Developmental Systems
   - Symmetry and Geometry in Neural Representations (NeurReps) NeurIPS Workshop
